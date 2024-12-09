@@ -2,7 +2,7 @@ Director of [HAIV Lab](https://haivlab.wixsite.com/home)
 
 Associate Professor in Intelligence Science & Tech
 
-[Huazhong Univ of Science & Technology](https://english.hust.edu.cn)
+[Huazhong Univ of Science & Technology](https://english.hust.edu.cn), China 
 
 
 #### Contact
