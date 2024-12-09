@@ -21,7 +21,8 @@ MS, Institute of Computing Technology, University of Chinese Academy of Sciences
 BS, School of Computer Science, Wuhan University, China 
 
 #### Work Experience
-- 2020/9 至今 华中科技大学，智能科学与技术系，副教授   
+- 2020/9 至今 华中科技大学，智能科学与技术系，副教授
+  
 Associate Prof, Dept of Intelligence Science & Tech, Huazhong Univ of Science & Tech   
 - 2024/3 至今 鹏城国家实验室，视觉智能研究所，访问学者   
 Visiting Scholar, Institute of Visual Intelligence, Peng Cheng National Lab, China  
