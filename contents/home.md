@@ -5,7 +5,7 @@ Associate Professor in Intelligence Science & Tech
 [Huazhong Univ of Science & Technology](https://english.hust.edu.cn)
 
 
-#### Email
+#### Contact
 xex@hust.edu.cn
 
 xxiang@cs.jhu.edu
