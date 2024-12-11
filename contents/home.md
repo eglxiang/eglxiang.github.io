@@ -28,7 +28,7 @@ Visiting Scholar, Institute of Visual Intelligence, Peng Cheng National Lab, Chi
 - 2020/1 - 2020/8，美国图森未来公司，算法部，资深研究科学家  
 Senior Research Scientist, Dept of Algorithms, TuSimple, Inc, USA (Hired by Xiaodi Hou 侯晓迪)  
 - 2018/9 - 2020/1，美国亚马逊云计算，亚马逊人工智能实验室，应用研究科学家  
-Applied Scientist, AWS AI Labs, Amazon Web Services, Inc, USA (Hired by Stefano Soabo)  
+Applied Scientist, AWS AI Labs, Amazon Web Services, Inc, USA (Hired by Stefano Soatto)  
 
 #### Patents
 - 王海波, 项翔, 范宗 ; 对象识别系统和方法, 2020/5, 中国, CN 111095264 A
