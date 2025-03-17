@@ -1,5 +1,4 @@
-- <strong>Xiang Xiang*</strong>,  Qinhao  Zhou,  Yuwen  Tan,  Boqing  Gong,  Xilin  Chen:  <i>Semantically-Shifted  
-Incremental Adapter-Tuning is An Eﬀective Continual Learner</i>. <strong>IEEE Trans. PAMI</strong>, 2024.  
+- Zhuo Xu, <strong>Xiang Xiang*</strong>,  Yifan Liang:  <i>Overcoming Shortcut Problem in VLMs for Robust Out-of-Distribution Detection</i>. In <strong>CVPR</strong>, 2025.  
 
 - Zhiwen Shao, Hancheng Zhu*, Yong Zhou*, <strong>Xiang Xiang*</strong>, Bing Liu, Rui Yao, Lizhuang Ma: <i>Facial  
 Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample</i>. <strong>IJCV</strong>, 2024.  
