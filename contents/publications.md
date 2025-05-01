@@ -1,3 +1,5 @@
+- Jing Ma, Hanlin Li, <br>Xiang Xiang*</br>: <i>PTTA: Purifying Malacious Samples for Test-Time Model Adaptation</i>. In <br>ICML</br>, 2025.
+
 - Zhuo Xu, <strong>Xiang Xiang*</strong>,  Yifan Liang:  <i>Overcoming Shortcut Problem in VLMs for Robust Out-of-Distribution Detection</i>. In <strong>CVPR</strong>, 2025.  
 
 - Zhiwen Shao, Hancheng Zhu*, Yong Zhou*, <strong>Xiang Xiang*</strong>, Bing Liu, Rui Yao, Lizhuang Ma: <i>Facial  
