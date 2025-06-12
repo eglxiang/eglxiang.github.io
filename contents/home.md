@@ -1,6 +1,8 @@
+华中科技大学 博导 副教授
+
 Director of [HAIV Lab](https://haivlab.wixsite.com/home)
 
-Associate Professor in Computer/Intelligence Science & Tech
+Associate Professor in Computer Science & Tech
 
 [Huazhong Univ of Science & Technology](https://english.hust.edu.cn), China 
 
