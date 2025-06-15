@@ -6,6 +6,9 @@ Associate Professor in Computer Science & Tech
 
 [Huazhong Univ of Science & Technology](https://english.hust.edu.cn), China 
 
+计算机科学与技术（主聘）
+
+智能科学与技术（双聘）
 
 #### Contact
 xex@hust.edu.cn
