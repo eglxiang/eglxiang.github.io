@@ -11,6 +11,9 @@ Associate Professor in Computer Science & Tech
 #### Contact
 xex@hust.edu.cn
 
+湖北省武汉市珞喻路洪山区1037号
+华中科技大学计算机科学与技术学院
+
 #### Education
 - 2012/8 - 2018/8 美国约翰·霍普金斯大学，计算机科学系，计算机科学，博士<br>
 PhD in Computer Science, Dept of Computer Science, Johns Hopkins University, USA    
@@ -24,8 +27,6 @@ BS, School of Computer Science, Wuhan University, China
 #### Work Experience
 - 2020/9 至今 华中科技大学，计算机/智能科学与技术，副教授  
 Associate Prof, Computer/Intelligence Science & Tech, Huazhong Univ of Science & Tech   
-- 2024/3 至今 鹏城国家实验室，感知智能研究所，访问学者   
-Visiting Scholar, Institute of Cognitive Intelligence, Peng Cheng National Lab, China  
 - 2020/1 - 2020/8，美国图森未来公司，算法部，资深研究科学家  
 Senior Research Scientist, Dept of Algorithms, TuSimple, Inc, USA (Hired by Xiaodi Hou 侯晓迪)  
 - 2018/9 - 2020/1，美国亚马逊云计算，亚马逊人工智能实验室，应用研究科学家  
@@ -40,13 +41,13 @@ Applied Scientist, AWS AI Labs, Amazon Web Services, Inc, USA (Hired by Stefano 
 - 项翔, 徐琢, 张子函: ⼀种基于图文双模态匹配的分布外数据检测系统和方法. 2024/8, 中国
 - 周晗, 曾世鹏, 项翔, 黄宇涵, 徐琢: ⼀种道路损伤实时监控方法及其监控系统. 2024/10, 中国
 - 项翔，徐琢：一种基于层级视觉语义属性空间的可解释性开集识别方法. 2025/1，中国
+- 项翔，徐琢，梁一凡：一种基于背景解耦和掩码引导区域正则化的视觉语言模型分布外检测方法. 2025/5，中国
+- 项翔，马靖，李瀚林：一种基于恶意样本净化的测试时模型自适应方法. 2025/6，中国
 - 邵志文，项翔，马利庄，程依凡，邹未东：一种融合面部情绪行为多特征的线上考试防作弊系统. 2024/3，中国
 - 郭刚，江锦奇，项鹏宇，项翔，周钦浩，毕鑫祺，周立昌：一种两阶段预测硫循环耦合反硝化除磷工艺性能的方法. 2024/9, 中国
 
 #### Granted Projects
-- 国家级纵向基金，开放环境视觉快速感知，2022 至 2025，450 万元，在研，主持
-- 国家级纵向基金，基于知识图谱的开放环境感知，2022-12 至 2024-11，结题，主持
--  湖北省自然科学基金，基于小样本的增量学习，2022-6 至 2024-6，结题，主持
+- 湖北省自然科学基金，基于小样本的增量学习，2022-6 至 2024-6，结题，主持
 - 阿里巴巴达摩院创新研究计划基金，基于小样本连续知识蒸馏的大小模型协同学习, 2022-12 至 2024-3，结题，主持
 - 科技部科技创新 2030“新⼀代人工智能”重大项目，开放环境下异质微电网的群智协同主动安全调控理论与方法，2023 至 2027，500 万元，在研，参与
 - 中央高校基本科研业务费专项基金，基于行为观测的疼痛自动评估的方法研究，2021-4 至 2023-3，结题，主持
