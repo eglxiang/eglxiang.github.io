@@ -1,3 +1,5 @@
+- <b>Xiang Xiang</b>*, Zhuo Xu, Zihan Zhang, Zhigang Zeng, Xilin Chen: <i>Enhanced Dual-Pattern Matching with Vision-Language Representation for Out-of-Distribution Detection</i>. <b>IEEE T-PAMI</b>, 2025.
+
 - Jing Ma, Hanlin Li, <b>Xiang Xiang*</b>: <i>PTTA: Purifying Malacious Samples for Test-Time Model Adaptation</i>. In <b>ICML</b>, 2025.
 
 - Zhuo Xu, <strong>Xiang Xiang*</strong>,  Yifan Liang:  <i>Overcoming Shortcut Problem in VLMs for Robust Out-of-Distribution Detection</i>. In <strong>CVPR</strong>, 2025.  
