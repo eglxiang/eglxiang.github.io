@@ -13,3 +13,9 @@
 - Associate Editor, Elsevier Journal of Visual Communication and Image Representation
 
 -  CSIG 高级会员，三维视觉、视频图像通讯、成像探测与感知、空间信息感知与决策等专委会委员
+
+-  中国遥感应用协会 生态环境遥感专委会委员
+
+-  工信部人工智能终端标准工作组 单位成员代表
+
+-  AITISA智慧低空标准工作组 成员
