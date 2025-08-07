@@ -11,8 +11,9 @@ Associate Professor in Computer Science & Tech
 #### Contact
 xex@hust.edu.cn
 
-湖北省武汉市洪山区珞喻路1037号
-华中科技大学计算机科学与技术学院
+湖北省武汉市洪山区珞喻路1037号 华中科技大学计算机科学与技术学院
+
+HopCroft Center on Computing Science | Institute of Digital Media
 
 #### Expertise
 模型安全（Model Robustness）
