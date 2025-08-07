@@ -9,11 +9,13 @@ Associate Professor in Computer Science & Tech
 计算机科学与技术（主聘）、智能科学与技术（双聘）
 
 #### Contact
-xex@hust.edu.cn
+个  人：xex AT hust.edu.cn
+
+实验室：haivlab AT hust.edu.cn | 助  理: lob AT hust.edu.cn
 
 湖北省武汉市洪山区珞喻路1037号 华中科技大学计算机科学与技术学院
 
-HopCroft Center on Computing Science | Institute of Digital Media
+Hopcroft Center on Computing Science | Institute of Digital Media
 
 #### Expertise
 模型安全（Model Robustness）
