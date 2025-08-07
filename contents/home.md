@@ -14,6 +14,9 @@ xex@hust.edu.cn
 湖北省武汉市洪山区珞喻路1037号
 华中科技大学计算机科学与技术学院
 
+#### Expertise
+模型安全（Model Robustness）
+
 #### Education
 - 2012/8 - 2018/8 美国约翰·霍普金斯大学，计算机科学系，计算机科学，博士<br>
 PhD in Computer Science, Dept of Computer Science, Johns Hopkins University, USA    
