@@ -4,7 +4,9 @@
 
 - Jing Ma, Hanlin Li, <b>Xiang Xiang*</b>: <i>PTTA: Purifying Malacious Samples for <b>Test-Time Model Adaptation</b></i>. In <b>ICML</b>, 2025.
 
-- Zhuo Xu, <strong>Xiang Xiang*</strong>,  Yifan Liang:  <i>Overcoming Shortcut Problem in VLMs for Robust <b>Out-of-Distribution Detection</b></i>. In <strong>CVPR</strong>, 2025.  
+- Zhuo Xu, <strong>Xiang Xiang*</strong>,  Yifan Liang:  <i>Overcoming Shortcut Problem in VLMs for Robust <b>Out-of-Distribution Detection</b></i>. In <strong>CVPR</strong>, 2025.
+
+- Yan He, <strong>Xiang Xiang*</strong>, Xiaofei Liao: <i>Few-Shot Font Generation via Attribute-Guided Diffusion with Style Contrastive Learning</i>. In <strong>PRCV</strong>, 2025.
 
 - Zhiwen Shao, Hancheng Zhu*, Yong Zhou*, <strong>Xiang Xiang*</strong>, Bing Liu, Rui Yao, Lizhuang Ma: <i><b>Facial</b> Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample</i>. <strong>IJCV</strong>, 2024.  
 
@@ -17,6 +19,8 @@
 - Yuwen Tan, Qinhao Zhou, <strong>Xiang Xiang*</strong>,  Ke Wang, Yuchuang Wu, Yongbin Li: <i>Semantically-Shifted <b>Incremental</b> Adapter-Tuning is A Continual ViTransformer</i>. In <strong>CVPR</strong>, 2024.   
 
 -  Qinhao  Zhou,  Zihan  Zhang,  <strong>Xiang Xiang*</strong>,  Ke Wang, Yuchuan Wu, Yongbin Li: <i>Enhancing the General Agent Capabilities of Low-Parameter LLMs through Tuning and Multi-Branch Reasoning</i>. In <strong>NAACL</strong>, 2024.  
+
+- Jing Ma, <strong>Xiang Xiang*</strong>, Yan He: <i>Masking Cascaded Self-attentions for Few-Shot Font-Generation Transformer</i>. In <strong>ACCV</strong>, 2024.
 
 - Shouwen Wang, Qian Wan, <strong>Xiang Xiang*</strong>, Zhigang Zeng: <i>Saliency Regularization of Self-Training with Partial Annotations</i>. In <strong>ICCV</strong>, 2023.  
 
