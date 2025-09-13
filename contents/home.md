@@ -1,5 +1,7 @@
 项翔：华中科技大学 博导 副教授
 
+Visiting Associate Professor at University of Washington, Seattle, USA
+
 Director of [HAIV Lab](https://haivlab.wixsite.com/home)
 
 Associate Professor in Computer Science & Tech
@@ -54,7 +56,7 @@ Applied Scientist, AWS AI Labs, Amazon Web Services, Inc, USA (Hired by Stefano 
 
 #### Granted Projects
 - 国家级基金，开放视觉快速感知，2022-12 至 2025-11，450万元，主持
-- 国家级基金，基于知识图谱得开放感知，2022-12 至 2024-11，结题，主持
+- 国家级基金，基于知识图谱的开放感知，2022-12 至 2024-11，结题，主持
 - 湖北省自然科学基金，基于小样本的增量学习，2022-6 至 2024-6，结题，主持
 - 阿里巴巴达摩院创新研究计划基金，基于小样本连续知识蒸馏的大小模型协同学习, 2022-12 至 2024-3，结题，主持
 - 科技部科技创新 2030“新⼀代人工智能”重大项目，开放环境下异质微电网的群智协同主动安全调控理论与方法，2023 至 2027，500 万元，在研，参与
