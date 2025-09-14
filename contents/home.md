@@ -1,7 +1,5 @@
 项翔：华中科技大学 博导 副教授
 
-Visiting Associate Professor at University of Washington, Seattle, USA
-
 Director of [HAIV Lab](https://haivlab.wixsite.com/home)
 
 Associate Professor in Computer Science & Tech
