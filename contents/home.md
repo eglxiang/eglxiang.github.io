@@ -1,6 +1,6 @@
 项翔：华中科技大学 博导 副教授
 
-Director of [HAIV Lab](https://haivlab.wixsite.com/home)
+Director of [HAIV Lab](https://github.com/HAIV-Lab/)
 
 Associate Professor in Computer Science & Tech
 
