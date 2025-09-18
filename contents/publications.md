@@ -2,6 +2,8 @@
 
 - <b>Xiang Xiang</b>*, Jing Ma, Dongrui Wu, Zhigang Zeng, Xilin Chen: <i>Aligning Logits Generatively for Principled Black-Box Knowledge Distillation in the Wild</b></i>. <b>IEEE Trans. PAMI</b>, 2025.
 
+- Jing Ma, Hanlin Li, <b>Xiang Xiang*</b>: <i>Decoupled Entropy Minimization</i>. In <b>NeurIPS</b>, 2025.
+
 - Jing Ma, Hanlin Li, <b>Xiang Xiang*</b>: <i>PTTA: Purifying Malacious Samples for <b>Test-Time Model Adaptation</b></i>. In <b>ICML</b>, 2025.
 
 - Zhuo Xu, <strong>Xiang Xiang*</strong>,  Yifan Liang:  <i>Overcoming Shortcut Problem in VLMs for Robust <b>Out-of-Distribution Detection</b></i>. In <strong>CVPR</strong>, 2025.
