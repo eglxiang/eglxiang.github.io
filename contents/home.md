@@ -20,6 +20,9 @@ Hopcroft Center on Computing Science | Institute of Digital Media
 #### Expertise
 模型安全（Model Robustness）
 
+At Amazon, I have contributed to various large-scale AI models including [Amazon Textract](https://aws.amazon.com/textract/) and [Amazon Rekognition](https://aws.amazon.com/rekognition/). At TuSimple, I have contributed to the key milestones to TuSimple's IPO including the [Driver Out](https://www.prnewswire.com/news-releases/tusimple-becomes-first-to-successfully-operate-driver-out-fully-autonomous-semi-truck-on-open-public-roads-301451430.html) project.
+
+
 #### Education
 - 2012/8 - 2018/8 美国约翰·霍普金斯大学，计算机科学系，计算机科学，博士<br>
 PhD in Computer Science, Dept of Computer Science, Johns Hopkins University, USA    
