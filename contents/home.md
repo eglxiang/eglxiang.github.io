@@ -20,11 +20,7 @@ Hopcroft Center on Computing Science | Institute of Digital Media
 #### Expertise
 模型安全（Model Robustness）
 
-At HUST, I lead a team of computer/AI scientists to work on robust algorithms for deploying AI models including Alibaba's [Tongyi Qwen](https://www.alibabacloud.com/en/solutions/generative-ai/qwen) in vertical domains. 
-
-At Amazon, I have contributed to the re:invent-level launch of various large-scale AI models including [Amazon Textract](https://aws.amazon.com/textract/) and [Amazon Rekognition](https://aws.amazon.com/rekognition/). At TuSimple, I have contributed to the milestone-level deployment of AI models that are key to TuSimple's IPO including the [Driver Out](https://www.prnewswire.com/news-releases/tusimple-becomes-first-to-successfully-operate-driver-out-fully-autonomous-semi-truck-on-open-public-roads-301451430.html) project. 
-
-At Hopkins, my PhD dissertation project is the [Enhanced Endoscopic Navigation through Video Analysis](https://cirl.lcsr.jhu.edu/research/enhanced-endoscopic-navigation/) funded by NIH RO1. At CAS, I have contributed to the [AVS National Standard](https://www.avs.org.cn/). At WHU, I built up a [tracking video camera](https://www.jiaodapress.com.cn/Data/BookContent/7871) that won a national award. 
+At HUST, I lead a team of computer/AI scientists to work on robust algorithms for deploying AI models including Alibaba's [Tongyi Qwen](https://www.alibabacloud.com/en/solutions/generative-ai/qwen) in vertical domains. At Amazon, I have contributed to the re:invent-level launch of various large-scale AI models including [Amazon Textract](https://aws.amazon.com/textract/) and [Amazon Rekognition](https://aws.amazon.com/rekognition/). At TuSimple, I have contributed to the milestone-level deployment of AI models that are key to TuSimple's IPO including the [Driver Out](https://www.prnewswire.com/news-releases/tusimple-becomes-first-to-successfully-operate-driver-out-fully-autonomous-semi-truck-on-open-public-roads-301451430.html) project. At Hopkins, my PhD dissertation project is the [Enhanced Endoscopic Navigation through Video Analysis](https://cirl.lcsr.jhu.edu/research/enhanced-endoscopic-navigation/) funded by NIH RO1. At CAS, I have contributed to the [AVS National Standard](https://www.avs.org.cn/). At WHU, I built up a [tracking video camera](https://www.jiaodapress.com.cn/Data/BookContent/7871) that won a national award. 
 
 #### Education
 - 2012/8 - 2018/8 美国约翰·霍普金斯大学，计算机科学系，计算机科学，博士<br>
