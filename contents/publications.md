@@ -1,3 +1,7 @@
+- Jiaxin Dai, <b>Xiang Xiang</b>*: <i>Hyperbolic Coarse-to-Fine Few-Shot Class-Incremental Learning</i>. ArXiv preprint arXiv:2509.18504, 2025.
+
+- Qinhao Zhou, <b>Xiang Xiang</b>*, Kun He, John E. Hopcroft: <i>Learning to Rewrite Prompts for Bootstrapping LLMs on Downstream Tasks</i>. Arxiv preprint: 2510.06695, 2025.
+
 - <b>Xiang Xiang</b>*, Zhuo Xu, Zihan Zhang, Zhigang Zeng, Xilin Chen: <i>Enhanced Dual-Pattern Matching with Vision-Language Representation for <b>Out-of-Distribution Detection</b></i>. <b>IEEE Trans. PAMI</b>, 2025.
 
 - <b>Xiang Xiang</b>*, Jing Ma, Dongrui Wu, Zhigang Zeng, Xilin Chen: <i>Aligning Logits Generatively for Principled Black-Box Knowledge Distillation in the Wild</b></i>. <b>IEEE Trans. PAMI</b>, 2025.
