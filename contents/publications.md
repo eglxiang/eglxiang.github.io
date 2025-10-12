@@ -1,11 +1,11 @@
 
-- <b>Xiang Xiang</b>*, Zhuo Xu, Yao Deng, Qinhao Zhou, Yifan Liang, Ke Chen, Qingfang Zheng, Yaowei Wang, Xilin Chen, Wen Gao. OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing. Arxiv preprint:2502.20668, 2025.
+- <b>Xiang Xiang</b>*, Zhuo Xu, Yao Deng, Qinhao Zhou, Yifan Liang, Ke Chen, Qingfang Zheng, Yaowei Wang, Xilin Chen, Wen Gao. <i>OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing</i>. Arxiv preprint:2502.20668, 2025.
 
 - Qinhao Zhou, <b>Xiang Xiang</b>*, Kun He, John E. Hopcroft: <i>Learning to Rewrite Prompts for Bootstrapping LLMs on Downstream Tasks</i>. Arxiv preprint: 2510.06695, 2025.
 
 - Jiaxin Dai, <b>Xiang Xiang</b>*: <i>Hyperbolic Coarse-to-Fine Few-Shot Class-Incremental Learning</i>. ArXiv preprint arXiv:2509.18504, 2025.
 
-- <b>Xiang Xiang</b>*, Zihan Zhang, Jing Ma, Yao Deng. AI WALKUP: A Computer-Vision Approach to Quantifying MDS-UPDRS in Parkinson's Disease. ArXiv preprint arXiv:2404.01654, 2024.
+- <b>Xiang Xiang</b>*, Zihan Zhang, Jing Ma, Yao Deng. <i>AI WALKUP: A Computer-Vision Approach to Quantifying MDS-UPDRS in Parkinson's Disease</i>. ArXiv preprint arXiv:2404.01654, 2024.
 
 - <b>Xiang Xiang</b>*, Zhuo Xu, Zihan Zhang, Zhigang Zeng, Xilin Chen: <i>Enhanced Dual-Pattern Matching with Vision-Language Representation for <b>Out-of-Distribution Detection</b></i>. <b>IEEE Trans. PAMI</b>, 2025.
 
