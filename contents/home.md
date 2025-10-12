@@ -9,7 +9,7 @@ Associate Professor in Computer Science & Tech
 计算机科学与技术（主聘）、智能科学与技术（双聘）
 
 #### Contact
-个  人：xex AT hust.edu.cn（主要）| xxiang3 AT alumni.jh.edu (备用)
+个  人：xex AT hust.edu.cn (主要)|xxiang3 AT alumni.jh.edu (备用)
 
 实验室：haivlab AT hust.edu.cn | 助  理: lob AT hust.edu.cn | 【[B站](https://space.bilibili.com/1716209957)】
 
