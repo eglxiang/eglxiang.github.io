@@ -33,6 +33,10 @@
 
 - Jing Ma, <strong>Xiang Xiang*</strong>, Yan He: <i>Masking Cascaded Self-attentions for Few-Shot Font-Generation Transformer</i>. In <strong>ACCV</strong>, 2024.
 
+- J Jiang, Q Lin, X Guan, S Zhou, S Zhong, <strong>X Xiang</strong>, Z Wang, G Che, G Guo: <i>Using Machine Learning and GPT-Models to Enhance Electrochemical Pretreatment of Anaerobic Co-fermentation: Prediction, Early Warning and Biomarker Identification</i>. <strong>ACS Environmental Science & Technology Engineering</strong>, 2025.
+
+- J Jiang, <strong>X Xiang<strong>, Q Zhou, L Zhou, X Bi, S Khanal, Z Wang, G Chen, G Guo: <i>Optimization of A Novel Engineered EcoSystem Integrating Carbon, Nitrogen, Phosphorus and Sulfur Biotransformation for Saline Wastewater Treatment Using an Interpretable Machine Learning Approach</i>. </strong>Environmental Science & Technology</strong>, 2024. 
+
 - Shouwen Wang, Qian Wan, <strong>Xiang Xiang*</strong>, Zhigang Zeng: <i>Saliency Regularization of Self-Training with Partial Annotations</i>. In <strong>ICCV</strong>, 2023.  
 
 - Zihan Zhang, <strong>Xiang Xiang*</strong>. <i>Decoupling MaxLogit for <b>Out-of-Distribution Detection</b></i>. In <strong>CVPR</strong>, 2023.  
