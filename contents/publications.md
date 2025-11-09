@@ -1,7 +1,7 @@
 
-- Yao Deng, <b>Xiang Xiang</b>*, Jiaqi Gui. <i>Random Amalgamation of Adapters for Flatter Loss Landscape: Towards Class-Incremental Learning with Better Stability</i>. In AAAI, 2026 (Oral).
+- Yao Deng, <b>Xiang Xiang</b>*, Jiaqi Gui. <i>Random Amalgamation of Adapters for Flatter Loss Landscape: Towards Class-Incremental Learning with Better Stability</i>. In <b>AAAI</b>, 2026 (Oral).
 
-- Junhui Qiu, <b>Xiang Xiang</b>*, Hongyun Wang, Jiaqi Gui. AerialFusion: Co-Motion Driven Unified Registration and Fusion on Multi-modal Data Streams from Aerial View. In AAAI, 2026.
+- Junhui Qiu, <b>Xiang Xiang</b>*, Hongyun Wang, Jiaqi Gui. AerialFusion: Co-Motion Driven Unified Registration and Fusion on Multi-modal Data Streams from Aerial View. In <b>AAAI</b>, 2026.
 
 - <b>Xiang Xiang</b>*, Zhuo Xu, Yao Deng, Qinhao Zhou, Yifan Liang, Ke Chen, Qingfang Zheng, Yaowei Wang, Xilin Chen, Wen Gao. <i>OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing</i>. Arxiv preprint:2502.20668, 2025.
 
