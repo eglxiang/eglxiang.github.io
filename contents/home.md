@@ -25,6 +25,8 @@ At HUST, I lead a team of computer/AI scientists to work on multi-modal fusion, 
 
 At Amazon, I have contributed to the re:invent-level launch of various large-scale AI models including [Amazon Textract](https://aws.amazon.com/textract/) and [Amazon Rekognition](https://aws.amazon.com/rekognition/). At TuSimple, I have contributed to the milestone-level deployment of AI models that are key to TuSimple's IPO including the [Driver Out](https://www.prnewswire.com/news-releases/tusimple-becomes-first-to-successfully-operate-driver-out-fully-autonomous-semi-truck-on-open-public-roads-301451430.html) project. At Hopkins, my PhD dissertation project was the [Enhanced Endoscopic Navigation through Video Analysis](https://cirl.lcsr.jhu.edu/research/enhanced-endoscopic-navigation/) funded by NIH RO1. At CMU (I was part of the Tartan family and thus visited CMU for 2 years during my PhD), I started my AI4S effort in smart water treatment for Civil & Enviromental Engineering. Even before, at CAS, I have contributed to the [AVS National Standard](https://www.avs.org.cn/). At WHU, I built up a [tracking video camera](https://www.jiaodapress.com.cn/Data/BookContent/7871) that won a national award. 
 
+Currently I teach Deep Learning (ugrad) in the fall, and NLP (ugrad), Computer Vision (ugrad), and Pattern Recognition (grad) in the spring.
+
 #### Education
 - 2012/8 - 2018/8 美国约翰·霍普金斯大学，计算机科学系，计算机科学，博士<br>
 PhD in Computer Science, Dept of Computer Science, Johns Hopkins University, USA    
