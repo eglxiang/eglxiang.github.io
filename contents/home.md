@@ -25,7 +25,7 @@ At HUST, I lead a team of computer/AI scientists to work on multi-modal fusion, 
 
 At Amazon, I have contributed to the re:invent-level launch of various large-scale AI models including [Amazon Textract](https://aws.amazon.com/textract/) and [Amazon Rekognition](https://aws.amazon.com/rekognition/). At TuSimple, I have contributed to the milestone-level deployment of AI models that are key to TuSimple's IPO including the [Driver Out](https://www.prnewswire.com/news-releases/tusimple-becomes-first-to-successfully-operate-driver-out-fully-autonomous-semi-truck-on-open-public-roads-301451430.html) project. At Hopkins, my PhD dissertation project was the [Enhanced Endoscopic Navigation through Video Analysis](https://cirl.lcsr.jhu.edu/research/enhanced-endoscopic-navigation/) funded by NIH RO1. At CMU (I was part of the Tartan family and thus visited CMU for 2 years during my PhD), I started my AI4S effort in smart water treatment for Civil & Enviromental Engineering. Even before, at CAS, I have contributed to the [AVS National Standard](https://www.avs.org.cn/). At WHU, I built up a [tracking video camera](https://www.jiaodapress.com.cn/Data/BookContent/7871) that won a national award. 
 
-Currently I teach Deep Learning (ugrad) in the fall, and NLP (ugrad), Computer Vision (ugrad), and Pattern Recognition (grad) in the spring.
+Currently I teach Deep Learning (ugrad) in the fall, and Computer Vision (ugrad), NLP (ugrad), Machine Learning (grad), and Pattern Recognition (grad) in the spring.
 
 #### Education
 - 2012/8 - 2018/8 美国约翰·霍普金斯大学，计算机科学系，计算机科学，博士<br>
@@ -60,11 +60,9 @@ Applied Scientist, AWS AI Labs, Amazon Web Services, Inc, USA (Hired by Stefano 
 - 郭刚，江锦奇，项鹏宇，项翔，周钦浩，毕鑫祺，周立昌：一种两阶段预测硫循环耦合反硝化除磷工艺性能的方法. 2024/9, 中国
 
 #### Granted Projects
-- 国家级基金，开放视觉快速感知，2022-12 至 2025-11，450万元，主持
-- 国家级基金，基于知识图谱的开放感知，2022-12 至 2024-11，结题，主持
 - 湖北省自然科学基金，基于小样本的增量学习，2022-6 至 2024-6，结题，主持
 - 阿里巴巴达摩院创新研究计划基金，基于小样本连续知识蒸馏的大小模型协同学习, 2022-12 至 2024-3，结题，主持
-- 科技部科技创新 2030“新⼀代人工智能”重大项目，开放环境下异质微电网的群智协同主动安全调控理论与方法，2023 至 2027，500 万元，在研，参与
+- 科技部科技创新 2030“新⼀代人工智能”重大项目，开放环境下异质微电网的群智协同主动安全调控理论与方法，2023 至 2027，在研，参与
 - 中央高校基本科研业务费专项基金，基于行为观测的疼痛自动评估的方法研究，2021-4 至 2023-3，结题，主持
 - 美国国立卫生院 (NIH) RO1 项目，通过视频分析增强内窥镜鼻窦手术导航 (Enhanced navigayion for endoscopic sinus surgery through video analysis)，2012-7 至 2017-6，结题，参与
 
