@@ -34,7 +34,9 @@ ADAPT W/O DATA?
 
 Remote Sensing
 
-- Junhui Qiu, <b>Xiang Xiang</b>*, Hongyun Wang, Jiaqi Gui. AerialFusion: Co-Motion Driven Unified Registration and Fusion on Multi-modal Data Streams from Aerial View. In <b>AAAI</b>, 2026.
+- Zhiwen Shao, Hancheng Zhu*, Yong Zhou*, <b>Xiang Xiang</b>*, Bing Liu, Rui Yao, Lizhuang Ma: <i>Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample</i>. <b>IJCV</b>, 2024.
+
+- Junhui Qiu, <b>Xiang Xiang</b>*, Hongyun Wang, Jiaqi Gui. <i>AerialFusion: Co-Motion Driven Unified Registration and Fusion on Multi-modal Data Streams from Aerial View</i>. In <b>AAAI</b>, 2026.
 
 - <b>Xiang Xiang</b>*, Zhuo Xu, Yao Deng, Qinhao Zhou, Yifan Liang, Ke Chen, Qingfang Zheng, Yaowei Wang, Xilin Chen, Wen Gao. <i>OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing</i>. Arxiv preprint:2502.20668, 2025.
 
