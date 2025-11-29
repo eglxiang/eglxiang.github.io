@@ -74,6 +74,10 @@
 
 - <strong>Xiang Xiang*</strong>, Zhiyuan Wang, Shanshan Lao, Baochang Zhang*. <i>Pruning  Multi-View Stereo Net for Eﬃcient 3D Reconstruction</i>. <strong>ISPRS Journal of Photogrammetry and Remote Sensing</strong>, 2020.  
 
+- X Wei, R Qiu, H Yu, Y Yang*, H Tian, <b>X Xiang</b>*. <i>Entropy-based Optimization via A* Algorithm for Parking Space Recommendation</i>. In SPIE ICTETS, 2021.
+
+- <b>Xiang Xiang</b>*, Daniel Mirota, Austin Reiter, Gregory D. Hager. <i>Is Multi-Model Feature Matching Better for Endoscopic Motion Estimation?</i>. In <b>MICCAI</b> Workshops, 2024.
+
 <i>Affective Computing</i>
 
 - Zhiwen Shao, Hancheng Zhu*, Yong Zhou*, <b>Xiang Xiang</b>*, Bing Liu, Rui Yao, Lizhuang Ma: <i>Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample</i>. <b>IJCV</b>, 2025.
