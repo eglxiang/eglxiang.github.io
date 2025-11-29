@@ -18,7 +18,7 @@
 
 - Q Wan, <b>X Xiang</b>*, Q Zhou. <i>YOLOOC: YOLO-based Open-Class Incremental Object Detection with <b>Novel Class Discovery</b><i>. ArXiv preprint: 2404.00257, 2024.
 
-- Q Wan, S Wang, <b>X Xiang</b>*. A Simple Unknown-Instance-Aware Framework for Open-Set Object Detection. In ICIST, 2023.
+- Q Wan, S Wang, <b>X Xiang</b>*. A Simple Unknown-Instance-Aware Framework for <b>Open-Set</b> Object Detection. In ICIST, 2023.
 
 <b>HOW TO ADAPT?</b> Test-Time Adaptation & Incremental Learning
 
@@ -28,7 +28,7 @@
 
 - Jing Ma, Hanlin Li, <b>Xiang Xiang*</b>: <i>PTTA: Purifying Malacious Samples for <b>Test-Time Model Adaptation</b></i>. In <b>ICML</b>, 2025.
 
-- Qinhao Zhou, Yuwen Tan, Boqing Gong, <b>Xiang Xiang</b>*. <i>Continual Adapter Tuning with Semantic Shift Compensation for Class-Incremental Learning</i>. ArXiv preprint: 2403.19979v2, 2025.
+- Qinhao Zhou, Yuwen Tan, Boqing Gong, <b>Xiang Xiang</b>*. <i><b>Continual</b> Adapter Tuning with Semantic Shift Compensation for <b>Class-Incremental Learning</b></i>. ArXiv preprint: 2403.19979v2, 2025.
 
 - Jiaxin Dai, <b>Xiang Xiang</b>*: <i>Hyperbolic Coarse-to-Fine Few-Shot <b>Class-Incremental Learning</b></i>. ArXiv preprint:2509.18504, 2025.
 
@@ -36,7 +36,7 @@
 
 - Yao Deng, <b>Xiang Xiang</b>. <i>Expanding Hyperspherical Space for Few-Shot <b>Class-Incremental Learning</b></i>. In <b>WACV</b>, 2024.
 
-- Qinhao Zhou, <b>Xiang Xiang</b>*, Jing Ma. <i>Hierarchical Task-Incremental Learning with Feature-Space Initialization Inspired by Neural Collapse</i>. <b>NPL</b>, 2023.
+- Qinhao Zhou, <b>Xiang Xiang</b>*, Jing Ma. <i>Hierarchical <b>Task-Incremental Learning</b> with Feature-Space Initialization Inspired by Neural Collapse</i>. <b>NPL</b>, 2023.
 
 -  <strong>Xiang Xiang*</strong>,  Yuwen  Tan,  Qian  Wan,  Jing  Ma,  Alan L. Yuille,  Gregory D. Hager. <i>Coarse-To-Fine <b>Incremental</b> Few-Shot Learning</i>. In <strong>ECCV</strong>, 2022.  
 
@@ -48,11 +48,11 @@
 
 - Jing Ma, <strong>Xiang Xiang*</strong>, Ke Wang, Yuchuang Wu, Yongbin Li: <i>Aligning Logits Generatively for Principled <b>Black-Box</b> Knowledge Distillation</i>. In <strong>CVPR</strong>, 2024.  
 
-- <strong>Xiang Xiang*</strong>, Zihan Zhang, Xilin Chen: <i>Curriculum-Balanced Long-Tailed Learning</i>. <strong>Neurocomputing</strong>, 2024.  
+- <strong>Xiang Xiang*</strong>, Zihan Zhang, Xilin Chen: <i>Curriculum-Balanced Long-<b>Tailed</b> Learning</i>. <strong>Neurocomputing</strong>, 2024.  
 
 - Shouwen Wang, Qian Wan, <strong>Xiang Xiang*</strong>, Zhigang Zeng: <i>Saliency Regularization of Self-Training with <b>Partial</b> Annotations</i>. In <strong>ICCV</strong>, 2023.
 
-- Jing Ma, <b>Xiang Xiang</b>*, Zihan Zhang, Yuwen Tan, Yiming Wan, Zhigang Zeng, Dacheng Tao. Mapping Emulation for Knowledge Distillation. ArXiv preprint:2205.10490, 2022.
+- Jing Ma, <b>Xiang Xiang</b>*, Zihan Zhang, Yuwen Tan, Yiming Wan, Zhigang Zeng, Dacheng Tao. Mapping Emulation for Knowledge Distillation. ArXiv preprint: 2205.10490, 2022.
 
 <b>WHERE TO USE?</b>
 
