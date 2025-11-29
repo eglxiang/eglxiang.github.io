@@ -113,6 +113,8 @@
 
 - Yuwen Tan,  <strong>Xiang Xiang*</strong>,  Yifeng  Cheng,  Hongyi  Jing,  Shiyang  Ye,  Chaoran  Xue,  Hui  Xu:  <i>Coupling Bracket Segmentation and Tooth Surface Reconstruction on 3D Dental Models</i>. In <strong>MICCAI</strong>, 2023.
 
+- Yuwen Tan, <b>Xiang Xiang</b>*. <i>Boundary-Constrained Graph Network for Tooth Segmentation on 3D Dental Surfaces</i>. In <b>MICCAI</b> Workshops, 2023.
+
 - <b>Xiang Xiang</b>*, Feng Wang, Yuwen Tan, Alan L. Yuille. <i>Imbalanced Regression for Intensity Series of Pain Expression from Videos by Regularizing Spatio-Temporal Face Nets</i>. <b>PRL</b>, 2022.
 
 - J Huang, <b>X Xiang</b>, X Gong, B Zhang. <i>Long-Short Graph Memory Network for Skeleton-based Action Recognition</i>. In <b>WACV</b>, 2020.
@@ -122,4 +124,3 @@
 - W Zhu, <b>X Xiang</b>, TD Tran, GD Hager, X Xie. <i>Adversarial Deep Structured Nets for Mass Segmentation from Mammograms</i>. In <b>ISBI</b>, 2018.
 
 - F Wang, <b>X Xiang</b>*, C Liu, TD Tran, A Reiter, GD Hager, H Quon, J Cheng, AL Yuille. <i>Regularizing Face Verification Nets for Pain Intensity Regression</i>. In <b>ICIP</b>, 2017.
-
