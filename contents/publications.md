@@ -24,6 +24,8 @@
 
 - Yao Deng, <b>Xiang Xiang</b>. <i>Expanding Hyperspherical Space for Few-Shot <b>Class-Incremental Learning</b></i>. In <b>WACV</b>, 2024.
 
+- Qinhao Zhou, <b>Xiang Xiang</b>*, Jing Ma. <i>Hierarchical Task-Incremental Learning with Feature-Space Initialization Inspired by Neural Collapse</i>. <b>NPL</b>, 2023.
+
 -  <strong>Xiang Xiang*</strong>,  Yuwen  Tan,  Qian  Wan,  Jing  Ma,  Alan  Yuille,  Gregory  Hager:  <i>Coarse-To-Fine <b>Incremental</b> Few-Shot Learning</i>. In <strong>ECCV</strong>, 2022.  
 
 <b>ADAPT W/O DATA?</b> Knowledge Distillation & Partial-Label Learning
