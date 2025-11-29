@@ -48,7 +48,7 @@ Robot Sensing
 
 - H Wang, J Li, <b>X Xiang</b>*, Q Xie*, Y Ma, Y Liu*. <i>GroupRF: Panoptic Scene Graph Generation with Group Relation Tokens</i>. <b>JVCI</b>, 2025.
 
-- Yuwen Tan, <b>Xiang Xiang</b>. <i>Cross-Domain Few-Shot <b>Incremental Learning</b> for Point-Cloud Recognition</i>. In WACV, 2024.
+- Yuwen Tan, <b>Xiang Xiang</b>. <i>Cross-Domain Few-Shot <b>Incremental Learning</b> for Point-Cloud Recognition</i>. In <b>WACV</b>, 2024.
 
 - Youming Deng, Yansheng Li, Yongjun Zhang, <strong>Xiang Xiang</strong>, Jian Wang, Jingdong Chen, Jiayi Ma  <i>Hierarchical Memory Learning for Fine-Grained Scene Graph Generation</i>. In <strong>ECCV</strong>, 2022.  
 
