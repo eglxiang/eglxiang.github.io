@@ -66,7 +66,7 @@
 
 - Yuwen Tan, <b>Xiang Xiang</b>. <i>Cross-Domain Few-Shot <b>Incremental Learning</b> for Point-Cloud Recognition</i>. In <b>WACV</b>, 2024.
 
-- Youming Deng, Yansheng Li, Yongjun Zhang, <strong>Xiang Xiang</strong>, Jian Wang, Jingdong Chen, Jiayi Ma  <i>Hierarchical Memory Learning for Fine-Grained Scene Graph Generation</i>. In <strong>ECCV</strong>, 2022.  
+- Youming Deng, Yansheng Li, Yongjun Zhang, <strong>Xiang Xiang</strong>, Jian Wang, Jingdong Chen, Jiayi Ma. <i>Hierarchical Memory Learning for Fine-Grained Scene Graph Generation</i>. In <strong>ECCV</strong>, 2022.  
 
 - <b>Xiang Xiang*</b>. Bootstrapping Autonomous Lane Changes with Self-Supervised Augmented Runs. In <b>ECCV</b> Workshops, 2024.
 
