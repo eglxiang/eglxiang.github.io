@@ -16,7 +16,7 @@
 
 - Zihan Zhang, <strong>Xiang Xiang*</strong>. <i>Decoupling MaxLogit for <b>Out-of-Distribution Detection</b></i>. In <strong>CVPR</strong>, 2023.
 
-- Q Wan, <b>X Xiang</b>*, Q Zhou. <i>YOLOOC: YOLO-based Open-Class Incremental Object Detection with <b>Novel Class Discovery</b><i>. ArXiv preprint: 2404.00257, 2024.
+- Q Wan, <b>X Xiang</b>*, Q Zhou. <i>YOLOOC: YOLO-based Open-Class Incremental Object Detection with <b>Novel Class Discovery</b></i>. ArXiv preprint: 2404.00257, 2024.
 
 - Q Wan, S Wang, <b>X Xiang</b>*. <i>A Simple Unknown-Instance-Aware Framework for <b>Open-Set</b> Object Detection</i>. In ICIST, 2023.
 
