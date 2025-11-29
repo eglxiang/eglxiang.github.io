@@ -6,7 +6,9 @@
 
 - Zhuo Xu, <b>Xiang Xiang</b>. <i>Learning Visual-Semantic Hierarchical Attribute Space for Interpretable <b>Open-Set Recognition</b></i>. In <b>WACV</b>, 2025.
 
-- <b>Xiang Xiang</b>*, Qinhao Zhou, Zhuo Xu, Jing Ma, Jiaxin Dai, Yifan Liang, Hanlin Li. <i>OpenHAIV: A Framework Towards Practical Open-World Learning</i>. ArXiv preprint: 2508.07270, 2025.
+- <b>Xiang Xiang</b>*, Zhuo Xu, Yao Deng, Qinhao Zhou, Yifan Liang, Ke Chen, Qingfang Zheng, Yaowei Wang, Xilin Chen, Wen Gao. <i>OpenEarthSensing: Large-Scale Fine-Grained Benchmark for <b>Open-World</b> Remote Sensing</i>. Arxiv preprint:2502.20668, 2025.
+
+- <b>Xiang Xiang</b>*, Qinhao Zhou, Zhuo Xu, Jing Ma, Jiaxin Dai, Yifan Liang, Hanlin Li. <i>OpenHAIV: A Framework Towards Practical <b>Open-World</b> Learning</i>. ArXiv preprint: 2508.07270, 2025.
 
 - Zihan  Zhang,  Zhuo  Xu,  <strong>Xiang Xiang*</strong>:  <i>Vision-Language Dual-Pattern Matching for <b>Out-of-Distribution Detection</b></i>. In <strong>ECCV</strong>, 2024.  
 
@@ -57,8 +59,6 @@
 <i>Robot Sensing</i>
 
 - Junhui Qiu, <b>Xiang Xiang</b>*, Hongyun Wang, Jiaqi Gui. <i>AerialFusion: Co-Motion Driven Unified Registration and Fusion on Multi-modal Data Streams from Aerial View</i>. In <b>AAAI</b>, 2026.
-
-- <b>Xiang Xiang</b>*, Zhuo Xu, Yao Deng, Qinhao Zhou, Yifan Liang, Ke Chen, Qingfang Zheng, Yaowei Wang, Xilin Chen, Wen Gao. <i>OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing</i>. Arxiv preprint:2502.20668, 2025.
 
 - Y Gao, <b>X Xiang</b>*, S Zhong, G Wang. <i>LOC: A General Language-Guided Framework for Open-Set 3D Occupancy Prediction</i>. ArXiv preprint: 2510.22141, 2025.
 
