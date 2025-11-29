@@ -12,7 +12,7 @@
 
 - Zihan  Zhang,  Zhuo  Xu,  <strong>Xiang Xiang*</strong>:  <i>Vision-Language Dual-Pattern Matching for <b>Out-of-Distribution Detection</b></i>. In <strong>ECCV</strong>, 2024.  
 
-- Qinhao Zhou, <b>Xiang Xiang</b>. <i>Stay Open: Calibrating Weights Continuously for Detecting <b>Out-of-Distribution</b> Objects on the Fly. In <b>PRCV</b>, 2024.
+- Qinhao Zhou, <b>Xiang Xiang</b>. <i>Stay Open: Calibrating Weights Continuously for Detecting <b>Out-of-Distribution</b> Objects on the Fly</i>. In <b>PRCV</b>, 2024.
 
 - Zihan Zhang, <strong>Xiang Xiang*</strong>. <i>Decoupling MaxLogit for <b>Out-of-Distribution Detection</b></i>. In <strong>CVPR</strong>, 2023.
 
