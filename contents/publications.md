@@ -30,7 +30,7 @@
 
 - Qinhao Zhou, Yuwen Tan, Boqing Gong, <b>Xiang Xiang</b>*. <i>Continual Adapter Tuning with Semantic Shift Compensation for Class-Incremental Learning</i>. ArXiv preprint: 2403.19979v2, 2025.
 
-- Jiaxin Dai, <b>Xiang Xiang</b>*: <i>Hyperbolic Coarse-to-Fine Few-Shot <b>Class-Incremental Learning</b></i>. ArXiv preprint arXiv:2509.18504, 2025.
+- Jiaxin Dai, <b>Xiang Xiang</b>*: <i>Hyperbolic Coarse-to-Fine Few-Shot <b>Class-Incremental Learning</b></i>. ArXiv preprint:2509.18504, 2025.
 
 - Yuwen Tan, Qinhao Zhou, <strong>Xiang Xiang*</strong>,  Ke Wang, Yuchuang Wu, Yongbin Li: <i>Semantically-Shifted <b>Incremental</b> Adapter-Tuning is A <b>Continual</b> ViTransformer</i>. In <strong>CVPR</strong>, 2024.
 
