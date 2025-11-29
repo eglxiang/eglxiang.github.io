@@ -26,6 +26,8 @@
 
 - Jing Ma, Hanlin Li, <b>Xiang Xiang*</b>: <i>PTTA: Purifying Malacious Samples for <b>Test-Time Model Adaptation</b></i>. In <b>ICML</b>, 2025.
 
+- Qinhao Zhou, Yuwen Tan, Boqing Gong, <b>Xiang Xiang</b>*. <i>Continual Adapter Tuning with Semantic Shift Compensation for Class-Incremental Learning</i>. ArXiv preprint: 2403.19979v2, 2025.
+
 - Jiaxin Dai, <b>Xiang Xiang</b>*: <i>Hyperbolic Coarse-to-Fine Few-Shot <b>Class-Incremental Learning</b></i>. ArXiv preprint arXiv:2509.18504, 2025.
 
 - Yuwen Tan, Qinhao Zhou, <strong>Xiang Xiang*</strong>,  Ke Wang, Yuchuang Wu, Yongbin Li: <i>Semantically-Shifted <b>Incremental</b> Adapter-Tuning is A <b>Continual</b> ViTransformer</i>. In <strong>CVPR</strong>, 2024.
@@ -34,7 +36,7 @@
 
 - Qinhao Zhou, <b>Xiang Xiang</b>*, Jing Ma. <i>Hierarchical Task-Incremental Learning with Feature-Space Initialization Inspired by Neural Collapse</i>. <b>NPL</b>, 2023.
 
--  <strong>Xiang Xiang*</strong>,  Yuwen  Tan,  Qian  Wan,  Jing  Ma,  Alan  Yuille,  Gregory  Hager:  <i>Coarse-To-Fine <b>Incremental</b> Few-Shot Learning</i>. In <strong>ECCV</strong>, 2022.  
+-  <strong>Xiang Xiang*</strong>,  Yuwen  Tan,  Qian  Wan,  Jing  Ma,  Alan L. Yuille,  Gregory D. Hager. <i>Coarse-To-Fine <b>Incremental</b> Few-Shot Learning</i>. In <strong>ECCV</strong>, 2022.  
 
 - Yao Deng, <b>Xiang Xiang</b>*. <i>Replaying Styles for <b>Continual</b> Semantic Segmentation across Domains</i>. In ACPR, 2023.
 
@@ -71,8 +73,6 @@
 - Xiao Wang, <b>Xiang Xiang</b>, Baochang Zhang, Xuhui Liu, Jianying Zheng, Qinglei Hu. <i>Weakly Supervised Object Detection Based on Active Learning</i>. <b>NPL</b>, 2022.
 
 - <strong>Xiang Xiang*</strong>, Zhiyuan Wang, Shanshan Lao, Baochang Zhang*. <i>Pruning  Multi-View Stereo Net for Eﬃcient 3D Reconstruction</i>. <strong>ISPRS Journal of Photogrammetry and Remote Sensing</strong>, 2020.  
-
-
 
 <i>Affective Computing</i>
 
