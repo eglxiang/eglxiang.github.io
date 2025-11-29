@@ -82,13 +82,13 @@ AI for Health
 
 - Yuwen Tan,  <strong>Xiang Xiang*</strong>,  Yifeng  Cheng,  Hongyi  Jing,  Shiyang  Ye,  Chaoran  Xue,  Hui  Xu:  <i>Coupling Bracket Segmentation and Tooth Surface Reconstruction on 3D Dental Models</i>. In <strong>MICCAI</strong>, 2023.
 
-- <b>Xiang Xiang</b>*, Feng Wang, Yuwen Tan, Alan L. Yuille. <i>Imbalanced Regression for Intensity Series of Pain Expression from Videos by Regularizing Spatio-Temporal Face Nets</i>. Pattern Recognition Letters, 2022.
+- <b>Xiang Xiang</b>*, Feng Wang, Yuwen Tan, Alan L. Yuille. <i>Imbalanced Regression for Intensity Series of Pain Expression from Videos by Regularizing Spatio-Temporal Face Nets</i>. <b>PRL</b>, 2022.
 
 - J Huang, <b>X Xiang</b>, X Gong, B Zhang. <i>Long-Short Graph Memory Network for Skeleton-based Action Recognition</i>. In <b>WACV</b>, 2020.
 
-- <b>Xiang Xiang</b>*, Ye Tian, Austin Reiter, Gregory D. Hager, Trac D. Tran. <i>S3D: Stacking Segmental P3D for Action Quality Assessment</i>. In ICIP, 2018.
+- <b>Xiang Xiang</b>*, Ye Tian, Austin Reiter, Gregory D. Hager, Trac D. Tran. <i>S3D: Stacking Segmental P3D for Action Quality Assessment</i>. In <b>ICIP</b>, 2018.
 
-- W Zhu, <b>X Xiang</b>, TD Tran, GD Hager, X Xie. <i>Adversarial Deep Structured Nets for Mass Segmentation from Mammograms</i>. In ISBI, 2028.
+- W Zhu, <b>X Xiang</b>, TD Tran, GD Hager, X Xie. <i>Adversarial Deep Structured Nets for Mass Segmentation from Mammograms</i>. In <b>ISBI</b>, 2018.
 
-- F Wang, <b>X Xiang</b>*, C Liu, TD Tran, A Reiter, GD Hager, H Quon, J Cheng, AL Yuille. Regularizing Face Verification Nets for Pain Intensity Regression. In ICIP, 2017.
+- F Wang, <b>X Xiang</b>*, C Liu, TD Tran, A Reiter, GD Hager, H Quon, J Cheng, AL Yuille. <i>Regularizing Face Verification Nets for Pain Intensity Regression</i>. In <b>ICIP</b>, 2017.
 
