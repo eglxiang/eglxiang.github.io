@@ -60,7 +60,7 @@
 
 - Junhui Qiu, <b>Xiang Xiang</b>*, Hongyun Wang, Jiaqi Gui. <i>AerialFusion: Co-Motion Driven Unified Registration and Fusion on Multi-modal Data Streams from Aerial View</i>. In <b>AAAI</b>, 2026.
 
-- Y Gao, <b>X Xiang</b>*, S Zhong, G Wang. <i>LOC: A General Language-Guided Framework for Open-Set 3D Occupancy Prediction</i>. ArXiv preprint: 2510.22141, 2025.
+- Y Gao, <b>X Xiang</b>*, S Zhong, G Wang. <i>LOC: A General Language-Guided Framework for <b>Open-Set</b> 3D Occupancy Prediction</i>. ArXiv preprint: 2510.22141, 2025.
 
 - H Wang, J Li, <b>X Xiang</b>*, Q Xie*, Y Ma, Y Liu*. <i>GroupRF: Panoptic Scene Graph Generation with Group Relation Tokens</i>. <b>JVCI</b>, 2025.
 
