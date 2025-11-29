@@ -34,9 +34,13 @@
 
 - <strong>Xiang Xiang*</strong>, Zihan Zhang, Xilin Chen: <i>Curriculum-Balanced Long-Tailed Learning</i>. <strong>Neurocomputing</strong>, 2024.  
 
-- Shouwen Wang, Qian Wan, <strong>Xiang Xiang*</strong>, Zhigang Zeng: <i>Saliency Regularization of Self-Training with <b>Partial</b> Annotations</i>. In <strong>ICCV</strong>, 2023.  
+- Shouwen Wang, Qian Wan, <strong>Xiang Xiang*</strong>, Zhigang Zeng: <i>Saliency Regularization of Self-Training with <b>Partial</b> Annotations</i>. In <strong>ICCV</strong>, 2023.
 
-Robot Sensing
+- X Wang, <b>X Xiang</b>, B Zhang, X Liu, J Zheng, Q Hu. <i>Weakly Supervised Object Detection Based on Active Learning</i>. <b>NPL</b>, 2022.
+
+<b>WHERE TO USE?</b>
+
+<i>Robot Sensing</i>
 
 - Junhui Qiu, <b>Xiang Xiang</b>*, Hongyun Wang, Jiaqi Gui. <i>AerialFusion: Co-Motion Driven Unified Registration and Fusion on Multi-modal Data Streams from Aerial View</i>. In <b>AAAI</b>, 2026.
 
@@ -58,7 +62,7 @@ Robot Sensing
 
 -  Feng Wang*, <strong>Xiang Xiang*</strong>, Jian Cheng, Alan Yuille: <i>NormFace: L2 Hypersphere Embedding for <b>Face</b> Veriﬁcation</i>. In <strong>ACM Multimedia</strong>, 2017. (~1,000 citations)
 
-<b>Language Models</b>
+<i>Language Models</i>
 
 - Qinhao Zhou, <b>Xiang Xiang</b>*, Kun He, John E. Hopcroft: <i>Learning to Rewrite Prompts for Bootstrapping LLMs on Downstream Tasks</i>. Arxiv preprint: 2510.06695, 2025.
 
@@ -70,7 +74,7 @@ Robot Sensing
 
 - Jing Ma, <strong>Xiang Xiang*</strong>, Yan He: <i>Masking Cascaded Self-attentions for Few-Shot Font-Generation Transformer</i>. In <strong>ACCV</strong>, 2024.
 
-<b>AI for Health</b>
+<i>Health Informatics</i>
 
 - J Jiang, Q Lin, X Guan, S Zhou, S Zhong, <strong>X Xiang</strong>, Z Wang, G Che, G Guo: <i>Using Machine Learning and GPT-Models to Enhance Electrochemical Pretreatment of Anaerobic Co-fermentation: Prediction, Early Warning and Biomarker Identification</i>. <strong>ACS Environmental Science & Technology Engineering</strong>, 2025.
 
