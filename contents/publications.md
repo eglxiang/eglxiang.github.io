@@ -1,4 +1,4 @@
-<b>WHEN To ADAPT?</b> Out-of-Distribution Detection
+<b>WHEN TO ADAPT?</b> Out-of-Distribution Detection
 
 - <b>Xiang Xiang</b>*, Zhuo Xu, Zihan Zhang, Zhigang Zeng, Xilin Chen: <i>Enhanced Dual-Pattern Matching with Vision-Language Representation for <b>Out-of-Distribution Detection</b></i>. <b>IEEE Trans. PAMI</b>, 2025.
 
@@ -60,7 +60,7 @@ Robot Sensing
 
 -  <b>Xiang Xiang</b>*, Minh Dao, Gregory D. Hager, Trac D. Tran. <i>Hierarchical Sparse and Collaborative Low-Rank Representation for Emotion Recognition</i>. In <b>ICASSP</b>, 2015.
 
-Language/Text Models
+Language Models
 
 - Qinhao Zhou, <b>Xiang Xiang</b>*, Kun He, John E. Hopcroft: <i>Learning to Rewrite Prompts for Bootstrapping LLMs on Downstream Tasks</i>. Arxiv preprint: 2510.06695, 2025.
 
@@ -68,7 +68,7 @@ Language/Text Models
 
 - Qinhao  Zhou,  Zihan  Zhang,  <strong>Xiang Xiang*</strong>,  Ke Wang, Yuchuan Wu, Yongbin Li: <i>Enhancing the General Agent Capabilities of Low-Parameter LLMs through Tuning and Multi-Branch Reasoning</i>. In <strong>NAACL</strong>, 2024.
 
-- Q Zhou, <b>X Xiang</b>*, K Wang, Y Zhang, Y Wu, Y Li. <i>A Data-Efficient Nearest-Neighbor Language Model via Lightweight Nets</i>. In CCMT, 2024.
+- Q Zhou, <b>X Xiang</b>*, K Wang, Y Zhang, Y Wu, Y Li. <i>A Data-Efficient Nearest-Neighbor Language Model via Lightweight Nets</i>. In <b>CCMT</b>, 2024.
 
 - Jing Ma, <strong>Xiang Xiang*</strong>, Yan He: <i>Masking Cascaded Self-attentions for Few-Shot Font-Generation Transformer</i>. In <strong>ACCV</strong>, 2024.
 
