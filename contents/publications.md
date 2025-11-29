@@ -1,4 +1,4 @@
-<b>WHEN TO ADAPT?</b> Out-of-Distribution Detection
+<b>WHEN TO ADAPT?</b> Out-of-Distribution Detection & Open-Set Recognition
 
 - <b>Xiang Xiang</b>*, Zhuo Xu, Zihan Zhang, Zhigang Zeng, Xilin Chen: <i>Enhanced Dual-Pattern Matching with Vision-Language Representation for <b>Out-of-Distribution Detection</b></i>. <b>IEEE Trans. PAMI</b>, 2025.
 
@@ -8,7 +8,15 @@
 
 -  Zihan  Zhang,  Zhuo  Xu,  <strong>Xiang Xiang*</strong>:  <i>Vision-Language Dual-Pattern Matching for <b>Out-of-Distribution Detection</b></i>. In <strong>ECCV</strong>, 2024.  
 
+- Qinhao Zhou, <b>Xiang Xiang</b>. <i>Stay Open: Calibrating Weights Continuously for Detecting <b>Out-of-Distribution</b> Objects on the Fly. In <b>PRCV</b>, 2024.
+
 - Zihan Zhang, <strong>Xiang Xiang*</strong>. <i>Decoupling MaxLogit for <b>Out-of-Distribution Detection</b></i>. In <strong>CVPR</strong>, 2023.
+
+- Q Wan, <b>X Xiang</b>*, Q Zhou. <i>YOLOOC: YOLO-based Open-Class Incremental Object Detection with <b>Novel Class Discovery</b><i>. ArXiv preprint: 2404.00257, 2024.
+
+- Q Wan, S Wang, <b>X Xiang</b>*. A Simple Unknown-Instance-Aware Framework for Open-Set Object Detection. In ICIST, 2023.
+
+
 
 <b>HOW TO ADAPT?</b> Test-Time Adaptation & Incremental Learning
 
@@ -20,13 +28,15 @@
 
 - Jiaxin Dai, <b>Xiang Xiang</b>*: <i>Hyperbolic Coarse-to-Fine Few-Shot <b>Class-Incremental Learning</b></i>. ArXiv preprint arXiv:2509.18504, 2025.
 
-- Yuwen Tan, Qinhao Zhou, <strong>Xiang Xiang*</strong>,  Ke Wang, Yuchuang Wu, Yongbin Li: <i>Semantically-Shifted <b>Incremental</b> Adapter-Tuning is A Continual ViTransformer</i>. In <strong>CVPR</strong>, 2024.
+- Yuwen Tan, Qinhao Zhou, <strong>Xiang Xiang*</strong>,  Ke Wang, Yuchuang Wu, Yongbin Li: <i>Semantically-Shifted <b>Incremental</b> Adapter-Tuning is A <b>Continual</b> ViTransformer</i>. In <strong>CVPR</strong>, 2024.
 
 - Yao Deng, <b>Xiang Xiang</b>. <i>Expanding Hyperspherical Space for Few-Shot <b>Class-Incremental Learning</b></i>. In <b>WACV</b>, 2024.
 
 - Qinhao Zhou, <b>Xiang Xiang</b>*, Jing Ma. <i>Hierarchical Task-Incremental Learning with Feature-Space Initialization Inspired by Neural Collapse</i>. <b>NPL</b>, 2023.
 
 -  <strong>Xiang Xiang*</strong>,  Yuwen  Tan,  Qian  Wan,  Jing  Ma,  Alan  Yuille,  Gregory  Hager:  <i>Coarse-To-Fine <b>Incremental</b> Few-Shot Learning</i>. In <strong>ECCV</strong>, 2022.  
+
+- Yao Deng, <b>Xiang Xiang</b>*. <i>Replaying Styles for <b>Continual</b> Semantic Segmentation across Domains</i>. In ACPR, 2023.
 
 <b>ADAPT W/O DATA?</b> Knowledge Distillation & Partial-Label Learning
 
@@ -38,15 +48,13 @@
 
 - Shouwen Wang, Qian Wan, <strong>Xiang Xiang*</strong>, Zhigang Zeng: <i>Saliency Regularization of Self-Training with <b>Partial</b> Annotations</i>. In <strong>ICCV</strong>, 2023.
 
-- X Wang, <b>X Xiang</b>, B Zhang, X Liu, J Zheng, Q Hu. <i>Weakly Supervised Object Detection Based on Active Learning</i>. <b>NPL</b>, 2022.
+- Jing Ma, <b>Xiang Xiang</b>*, Zihan Zhang, Yuwen Tan, Yiming Wan, Zhigang Zeng, Dacheng Tao. Mapping Emulation for Knowledge Distillation. ArXiv preprint:2205.10490, 2022.
 
 <b>WHERE TO USE?</b>
 
 <i>Robot Sensing</i>
 
 - Junhui Qiu, <b>Xiang Xiang</b>*, Hongyun Wang, Jiaqi Gui. <i>AerialFusion: Co-Motion Driven Unified Registration and Fusion on Multi-modal Data Streams from Aerial View</i>. In <b>AAAI</b>, 2026.
-
-- Zhiwen Shao, Hancheng Zhu*, Yong Zhou*, <b>Xiang Xiang</b>*, Bing Liu, Rui Yao, Lizhuang Ma: <i>Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample</i>. <b>IJCV</b>, 2025.
 
 - <b>Xiang Xiang</b>*, Zhuo Xu, Yao Deng, Qinhao Zhou, Yifan Liang, Ke Chen, Qingfang Zheng, Yaowei Wang, Xilin Chen, Wen Gao. <i>OpenEarthSensing: Large-Scale Fine-Grained Benchmark for Open-World Remote Sensing</i>. Arxiv preprint:2502.20668, 2025.
 
@@ -58,11 +66,26 @@
 
 - Youming Deng, Yansheng Li, Yongjun Zhang, <strong>Xiang Xiang</strong>, Jian Wang, Jingdong Chen, Jiayi Ma  <i>Hierarchical Memory Learning for Fine-Grained Scene Graph Generation</i>. In <strong>ECCV</strong>, 2022.  
 
+- <b>Xiang Xiang*</b>. Bootstrapping Autonomous Lane Changes with Self-Supervised Augmented Runs. In <b>ECCV</b> Workshops, 2024.
+
+- Xiao Wang, <b>Xiang Xiang</b>, Baochang Zhang, Xuhui Liu, Jianying Zheng, Qinglei Hu. <i>Weakly Supervised Object Detection Based on Active Learning</i>. <b>NPL</b>, 2022.
+
 - <strong>Xiang Xiang*</strong>, Zhiyuan Wang, Shanshan Lao, Baochang Zhang*. <i>Pruning  Multi-View Stereo Net for Eﬃcient 3D Reconstruction</i>. <strong>ISPRS Journal of Photogrammetry and Remote Sensing</strong>, 2020.  
 
-- <strong>Xiang Xiang*</strong>, Trac Tran: <i>Linear Disentangled Representation Learning for Facial Actions</i>. <strong>IEEE Trans. CSVT</strong>, 28(12): 3539-3544, 2018.  
 
--  Feng Wang*, <strong>Xiang Xiang*</strong>, Jian Cheng, Alan Yuille: <i>NormFace: L2 Hypersphere Embedding for <b>Face</b> Veriﬁcation</i>. In <strong>ACM Multimedia</strong>, 2017. (~1,000 citations)
+
+<i>Affective Computing</i>
+
+- Zhiwen Shao, Hancheng Zhu*, Yong Zhou*, <b>Xiang Xiang</b>*, Bing Liu, Rui Yao, Lizhuang Ma: <i>Facial Action Unit Detection by Adaptively Constraining Self-Attention and Causally Deconfounding Sample</i>. <b>IJCV</b>, 2025.
+
+- Z Shao, Y Cheng*, Y Zhou, <b>X Xiang</b>*, J Li, B Liu, DY Yeung*. <i>High-Level LoRA and Hierarchical Fusion for Micro-Expression Recognition</i>. <b>The Visual Computer</b>, 2024.
+
+- <strong>Xiang Xiang*</strong>, Trac Tran: <i>Linear Disentangled Representation Learning for Facial Actions</i>. <strong>IEEE Trans. CSVT</strong>, 28(12): 3539-3544, 2018.
+ 
+-  Feng Wang*, <strong>Xiang Xiang*</strong>, Jian Cheng, Alan Yuille: <i>NormFace: L2 Hypersphere Embedding for Face Veriﬁcation</i>. In <strong>ACM Multimedia</strong>, 2017. (<b>~1,000 citations</b>)
+
+-  <b>Xiang Xiang</b>*, Minh Dao, Gregory D. Hager, Trac D. Tran. <i>Hierarchical Sparse and Collaborative Low-Rank Representation for Emotion Recognition</i>. In <b>ICASSP</b>, 2015.
+
 
 <i>Language Models</i>
 
@@ -80,7 +103,7 @@
 
 - J Jiang, Q Lin, X Guan, S Zhou, S Zhong, <strong>X Xiang</strong>, Z Wang, G Che, G Guo: <i>Using Machine Learning and GPT-Models to Enhance Electrochemical Pretreatment of Anaerobic Co-fermentation: Prediction, Early Warning and Biomarker Identification</i>. <strong>ACS Environmental Science & Technology Engineering</strong>, 2025.
 
-- <b>Xiang Xiang</b>*, Zihan Zhang, Jing Ma, Yao Deng. <i>AI WALKUP: A Computer-Vision Approach to Quantifying MDS-UPDRS in Parkinson's Disease</i>. ArXiv preprint arXiv:2404.01654, 2024.
+- <b>Xiang Xiang</b>*, Zihan Zhang, Jing Ma, Yao Deng. <i>AI WALKUP: A Computer-Vision Approach to Quantifying MDS-UPDRS in Parkinson's Disease</i>. ArXiv preprint:2404.01654, 2024.
 
 - J Jiang, <strong>X Xiang</strong>, Q Zhou, L Zhou, X Bi, S Khanal, Z Wang, G Chen, G Guo: <i>Optimization of A Novel Engineered EcoSystem Integrating Carbon, Nitrogen, Phosphorus and Sulfur Biotransformation for Saline Wastewater Treatment Using an Interpretable Machine Learning Approach</i>. <strong>Environmental Science & Technology</strong>, 2024. 
 
@@ -95,6 +118,4 @@
 - W Zhu, <b>X Xiang</b>, TD Tran, GD Hager, X Xie. <i>Adversarial Deep Structured Nets for Mass Segmentation from Mammograms</i>. In <b>ISBI</b>, 2018.
 
 - F Wang, <b>X Xiang</b>*, C Liu, TD Tran, A Reiter, GD Hager, H Quon, J Cheng, AL Yuille. <i>Regularizing Face Verification Nets for Pain Intensity Regression</i>. In <b>ICIP</b>, 2017.
-
--  <b>Xiang Xiang</b>*, Minh Dao, Gregory D. Hager, Trac D. Tran. <i>Hierarchical Sparse and Collaborative Low-Rank Representation for Emotion Recognition</i>. In <b>ICASSP</b>, 2015.
 
