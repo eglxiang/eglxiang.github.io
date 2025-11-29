@@ -58,9 +58,7 @@ Robot Sensing
 
 -  Feng Wang*, <strong>Xiang Xiang*</strong>, Jian Cheng, Alan Yuille: <i>NormFace: L2 Hypersphere Embedding for <b>Face</b> Veriﬁcation</i>. In <strong>ACM Multimedia</strong>, 2017. (~1,000 citations)
 
--  <b>Xiang Xiang</b>*, Minh Dao, Gregory D. Hager, Trac D. Tran. <i>Hierarchical Sparse and Collaborative Low-Rank Representation for Emotion Recognition</i>. In <b>ICASSP</b>, 2015.
-
-Language Models
+<b>Language Models</b>
 
 - Qinhao Zhou, <b>Xiang Xiang</b>*, Kun He, John E. Hopcroft: <i>Learning to Rewrite Prompts for Bootstrapping LLMs on Downstream Tasks</i>. Arxiv preprint: 2510.06695, 2025.
 
@@ -72,7 +70,7 @@ Language Models
 
 - Jing Ma, <strong>Xiang Xiang*</strong>, Yan He: <i>Masking Cascaded Self-attentions for Few-Shot Font-Generation Transformer</i>. In <strong>ACCV</strong>, 2024.
 
-AI for Health
+<b>AI for Health</b>
 
 - J Jiang, Q Lin, X Guan, S Zhou, S Zhong, <strong>X Xiang</strong>, Z Wang, G Che, G Guo: <i>Using Machine Learning and GPT-Models to Enhance Electrochemical Pretreatment of Anaerobic Co-fermentation: Prediction, Early Warning and Biomarker Identification</i>. <strong>ACS Environmental Science & Technology Engineering</strong>, 2025.
 
@@ -91,4 +89,6 @@ AI for Health
 - W Zhu, <b>X Xiang</b>, TD Tran, GD Hager, X Xie. <i>Adversarial Deep Structured Nets for Mass Segmentation from Mammograms</i>. In <b>ISBI</b>, 2018.
 
 - F Wang, <b>X Xiang</b>*, C Liu, TD Tran, A Reiter, GD Hager, H Quon, J Cheng, AL Yuille. <i>Regularizing Face Verification Nets for Pain Intensity Regression</i>. In <b>ICIP</b>, 2017.
+
+-  <b>Xiang Xiang</b>*, Minh Dao, Gregory D. Hager, Trac D. Tran. <i>Hierarchical Sparse and Collaborative Low-Rank Representation for Emotion Recognition</i>. In <b>ICASSP</b>, 2015.
 
