@@ -22,7 +22,7 @@
 
 - Yuwen Tan, Qinhao Zhou, <strong>Xiang Xiang*</strong>,  Ke Wang, Yuchuang Wu, Yongbin Li: <i>Semantically-Shifted <b>Incremental</b> Adapter-Tuning is A Continual ViTransformer</i>. In <strong>CVPR</strong>, 2024.
 
-- Yao Deng, <b>Xiang Xiang</b>. <i>Expanding Hyperspherical Space for Few-Shot <b>Class-Incremental Learning</b></i>. In WACV, 2024.
+- Yao Deng, <b>Xiang Xiang</b>. <i>Expanding Hyperspherical Space for Few-Shot <b>Class-Incremental Learning</b></i>. In <b>WACV</b>, 2024.
 
 -  <strong>Xiang Xiang*</strong>,  Yuwen  Tan,  Qian  Wan,  Jing  Ma,  Alan  Yuille,  Gregory  Hager:  <i>Coarse-To-Fine <b>Incremental</b> Few-Shot Learning</i>. In <strong>ECCV</strong>, 2022.  
 
