@@ -4,7 +4,7 @@
 
 - Zhuo Xu, <strong>Xiang Xiang*</strong>,  Yifan Liang:  <i>Overcoming Shortcut Problem in VLMs for Robust <b>Out-of-Distribution Detection</b></i>. In <strong>CVPR</strong>, 2025.
 
-- Zhuo Xu, <b>Xiang Xiang</b>. <i>Learning Visual-Semantic Hierarchical Attribute Space for Interpretable <b>Open-Set Recognition<b></i>. In WACV, 2025.
+- Zhuo Xu, <b>Xiang Xiang</b>. <i>Learning Visual-Semantic Hierarchical Attribute Space for Interpretable <b>Open-Set Recognition</b></i>. In <b>WACV</b>, 2025.
 
 -  Zihan  Zhang,  Zhuo  Xu,  <strong>Xiang Xiang*</strong>:  <i>Vision-Language Dual-Pattern Matching for <b>Out-of-Distribution Detection</b></i>. In <strong>ECCV</strong>, 2024.  
 
