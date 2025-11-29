@@ -6,7 +6,9 @@
 
 - Zhuo Xu, <b>Xiang Xiang</b>. <i>Learning Visual-Semantic Hierarchical Attribute Space for Interpretable <b>Open-Set Recognition</b></i>. In <b>WACV</b>, 2025.
 
--  Zihan  Zhang,  Zhuo  Xu,  <strong>Xiang Xiang*</strong>:  <i>Vision-Language Dual-Pattern Matching for <b>Out-of-Distribution Detection</b></i>. In <strong>ECCV</strong>, 2024.  
+- <b>Xiang Xiang</b>*, Qinhao Zhou, Zhuo Xu, Jing Ma, Jiaxin Dai, Yifan Liang, Hanlin Li. <i>OpenHAIV: A Framework Towards Practical Open-World Learning</i>. ArXiv preprint: 2508.07270, 2025.
+
+- Zihan  Zhang,  Zhuo  Xu,  <strong>Xiang Xiang*</strong>:  <i>Vision-Language Dual-Pattern Matching for <b>Out-of-Distribution Detection</b></i>. In <strong>ECCV</strong>, 2024.  
 
 - Qinhao Zhou, <b>Xiang Xiang</b>. <i>Stay Open: Calibrating Weights Continuously for Detecting <b>Out-of-Distribution</b> Objects on the Fly. In <b>PRCV</b>, 2024.
 
@@ -15,8 +17,6 @@
 - Q Wan, <b>X Xiang</b>*, Q Zhou. <i>YOLOOC: YOLO-based Open-Class Incremental Object Detection with <b>Novel Class Discovery</b><i>. ArXiv preprint: 2404.00257, 2024.
 
 - Q Wan, S Wang, <b>X Xiang</b>*. A Simple Unknown-Instance-Aware Framework for Open-Set Object Detection. In ICIST, 2023.
-
-
 
 <b>HOW TO ADAPT?</b> Test-Time Adaptation & Incremental Learning
 
