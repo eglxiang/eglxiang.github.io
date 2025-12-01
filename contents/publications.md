@@ -84,7 +84,7 @@
 
 - Z Shao, Y Cheng*, Y Zhou, <b>X Xiang</b>*, J Li, B Liu, DY Yeung*. <i>High-Level LoRA and Hierarchical Fusion for Micro-Expression Recognition</i>. <b>The Visual Computer</b>, 2024.
 
-- <strong>Xiang Xiang*</strong>, Trac Tran: <i>Linear Disentangled Representation Learning for Facial Actions</i>. <strong>IEEE Trans. CSVT</strong>, 28(12): 3539-3544, 2018.
+- <strong>Xiang Xiang*</strong>, Trac D. Tran: <i>Linear Disentangled Representation Learning for Facial Actions</i>. <strong>IEEE Trans. CSVT</strong>, 28(12): 3539-3544, 2018.
  
 -  Feng Wang*, <strong>Xiang Xiang*</strong>, Jian Cheng, Alan Yuille: <i>NormFace: L2 Hypersphere Embedding for Face Veriﬁcation</i>. In <strong>ACM Multimedia</strong>, 2017. (<b>~1,000 citations</b>)
 
