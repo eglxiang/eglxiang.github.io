@@ -1,4 +1,4 @@
-<b>WHEN TO ADAPT?</b> Out-of-Distribution Detection & Open-Set Recognition
+<b>WHEN TO ADAPT?</b> <i>Out-of-Distribution Detection & Open-Set Recognition</i>
 
 - <b>Xiang Xiang</b>*, Zhuo Xu, Zihan Zhang, Zhigang Zeng, Xilin Chen: <i>Enhanced Dual-Pattern Matching with Vision-Language Representation for <b>Out-of-Distribution Detection</b></i>. <b>IEEE Trans. PAMI</b>, 2025.
 
@@ -20,7 +20,7 @@
 
 - Q Wan, S Wang, <b>X Xiang</b>*. <i>A Simple Unknown-Instance-Aware Framework for <b>Open-Set</b> Object Detection</i>. In ICIST, 2023.
 
-<b>HOW TO ADAPT?</b> Test-Time Adaptation & Incremental Learning
+<b>HOW TO ADAPT?</b> <i>Test-Time Adaptation & Incremental Learning</i>
 
 - Yao Deng, <b>Xiang Xiang</b>*, Jiaqi Gui. <i>Random Amalgamation of Adapters for Flatter Loss Landscape: Towards <b>Class-Incremental Learning</b> with Better Stability</i>. In <b>AAAI</b>, 2026 (Oral).
 
@@ -42,7 +42,7 @@
 
 - Yao Deng, <b>Xiang Xiang</b>*. <i>Replaying Styles for <b>Continual</b> Semantic Segmentation across Domains</i>. In ACPR, 2023.
 
-<b>ADAPT W/O DATA?</b> Knowledge Distillation & Partial-Label Learning
+<b>ADAPT W/O DATA?</b> <i>Knowledge Distillation & Partial-Label Learning</i>
 
 - <b>Xiang Xiang</b>*, Jing Ma, Dongrui Wu, Zhigang Zeng, Xilin Chen: <i>Aligning Logits Generatively for Principled <b>Black-Box</b> Knowledge Distillation in the Wild</b></i>. <b>IEEE Trans. PAMI</b>, 2025.
 
