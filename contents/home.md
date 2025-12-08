@@ -30,7 +30,8 @@ Currently I teach Deep Learning (ugrad) in the fall, and Computer Vision (ugrad)
 #### Education
 - 2012/8 - 2018/8 美国约翰·霍普金斯大学，计算机科学系，计算机科学，博士<br>
 PhD in Computer Science, Dept of Computer Science, Johns Hopkins University, USA    
-Advisor: Gregory D. Hager & Trac D. Tran   
+Advisor: Gregory D. Hager & Trac D. Tran
+Committee: Alan L. Yuille, Rene Vidal & Stefano Soatto   
 - 2009/8 – 2012/7 中国科学院大学，计算技术研究所，计算机科学与技术，硕士<br>
 MS, Institute of Computing Technology, University of Chinese Academy of Sciences, China    
 导师：陈熙霖 (Advisor: Xilin Chen)    
