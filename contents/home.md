@@ -1,8 +1,8 @@
-项翔：华中科技大学 博导 副教授
+项翔：华中科技大学 教授 博导
 
 Director of [HAIV Lab](https://github.com/HAIV-Lab/)
 
-Associate Professor in Computer Science & Tech
+Professor in Computer Science & Tech
 
 [Huazhong Univ of Science & Technology](https://english.hust.edu.cn), China 
 
