@@ -38,17 +38,19 @@ Currently I teach Deep Learning (ugrad) in the fall, and Computer Vision (ugrad)
 #### Education
 - 2012/8 - 2018/8 美国约翰·霍普金斯大学，计算机科学系，计算机科学，博士<br>
 PhD in Computer Science, Dept of Computer Science, Johns Hopkins University, USA    
-Advisor: Gregory D. Hager & Trac D. Tran
-| Committee: Alan L. Yuille, Rene Vidal & Stefano Soatto   
+Advisor: Gregory D. Hager & Trac D. Tran | Committee: Alan L. Yuille, Rene Vidal & Stefano Soatto   
+Computational Interaction & Robotics Lab (CIRL) | Lab for Computational Sensing & Robotics (LCSR)
 - 2009/8 – 2012/7 中国科学院大学，计算技术研究所，计算机科学与技术，硕士<br>
 MS, Institute of Computing Technology, University of Chinese Academy of Sciences, China    
 导师：陈熙霖 (Advisor: Xilin Chen)    
+Key Lab of Intelligent Info Processing | Joint Dev Lab (JDL) for Digital Media (高文, Wen Gao)
 - 2005/9 – 2009/7 武汉大学，计算机学院，计算机软件，学士<br>
-BS, School of Computer Science, Wuhan University, China 
+BS, School of Computer Science, Wuhan University, China
 
 #### Work Experience
 - 2020/9 至今 华中科技大学，计算机/智能科学与技术，副教授  
-Associate Prof, Computer/Intelligence Science & Tech, Huazhong Univ of Science & Tech   
+Associate Prof -> Prof, Computer/Intelligence Science & Tech, Huazhong Univ of Science & Tech
+HUST AI & Visual Learning Lab | State Key Lab of Multi-Spectral Info Intelligent Processing Tech   
 - 2020/1 - 2020/8，美国图森未来公司，算法部，资深研究科学家  
 Senior Research Scientist, Dept of Algorithms, TuSimple, Inc, USA (Hired by Xiaodi Hou 侯晓迪)  
 - 2018/9 - 2020/1，美国亚马逊云计算，亚马逊人工智能实验室，应用研究科学家  
