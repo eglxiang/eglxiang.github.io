@@ -42,7 +42,7 @@ Advisor: Gregory D. Hager & Trac D. Tran | Committee: Alan L. Yuille, Rene Vidal
 Computational Interaction & Robotics Lab (CIRL) | Lab for Computational Sensing & Robotics (LCSR)
 - 2009/8 – 2012/7 中国科学院大学，计算技术研究所，计算机科学与技术，硕士<br>
 MS, Institute of Computing Technology, University of Chinese Academy of Sciences, China    
-导师：陈熙霖 (Advisor: Xilin Chen)    
+导师：陈熙霖 (Advisor: Xilin Chen)
 Key Lab of Intelligent Info Processing | Joint Dev Lab (JDL) for Digital Media (高文, Wen Gao)
 - 2005/9 – 2009/7 武汉大学，计算机学院，计算机软件，学士<br>
 BS, School of Computer Science, Wuhan University, China
