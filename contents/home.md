@@ -10,7 +10,7 @@ Professor in Computer Science & Tech
 
 计算机科学与技术学院（主聘）|  多谱信息智能处理技术全国重点实验室（双聘）
 
-Chief Scientific Officer of Glory Robotics
+Chief Scientific Officer of [Glory Robotics](http://glroad.com)
 
 (Glory Road Intelligent Robot Co., Ltd.)
 
