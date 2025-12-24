@@ -6,7 +6,15 @@ Professor in Computer Science & Tech
 
 [Huazhong Univ of Science & Technology](https://english.hust.edu.cn), China 
 
-计算机科学与技术（主聘）、智能科学与技术（双聘）
+计算机科学与技术（主聘）    |  智能科学与技术（双聘）
+
+计算机科学与技术学院（主聘）|  多谱信息智能处理技术全国重点实验室（双聘）
+
+Chief Scientific Officer of Glory Robotics
+
+(Glory Road Intelligent Robot Co., Ltd.)
+
+武汉格兰若智能机器人有限公司 首席科学家（兼职）
 
 #### Contact
 个  人：xex AT hust.edu.cn (主要)|xxiang3 AT alumni.jh.edu (备用)
