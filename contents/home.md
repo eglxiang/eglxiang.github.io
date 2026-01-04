@@ -6,15 +6,18 @@ Professor in Computer Science & Tech
 
 [Huazhong Univ of Science & Technology](https://english.hust.edu.cn), China 
 
-  计算机科学与技术（主聘）    |  智能科学与技术（双聘）
+  计算机科学与技术 （主聘）     |  智能科学与技术（双聘）
 
 计算机科学与技术学院(主聘)|  人工智能与自动化学院 多谱信息智能处理技术全国重点实验室（双聘）
 
-Chief Scientific Officer of [Glory Robotics](http://glroad.com)
+鹏城实验室 网络智能研究部（访问学者）
+
+Co-Founder & Chief Scientific Officer of [Glory Robotics](http://glroad.com)
 
 (Glory Road Intelligent Robot Co., Ltd.)
 
-武汉格兰若智能机器人有限公司 首席科学家（兼职）
+武汉格兰若智能机器人有限公司 联合创始人|首席科学家（兼职）
+
 
 #### Contact
 个  人：xex AT hust.edu.cn (主要)|xxiang3 AT alumni.jh.edu (备用)
@@ -42,7 +45,7 @@ Advisor: Gregory D. Hager & Trac D. Tran | Committee: Alan L. Yuille, Rene Vidal
 Computational Interaction & Robotics Lab (CIRL) | Lab for Computational Sensing & Robotics (LCSR)
 - 2009/8 – 2012/7 中国科学院大学，计算技术研究所，计算机科学与技术，硕士<br>
 MS, Institute of Computing Technology, University of Chinese Academy of Sciences, China    
-导师：陈熙霖 (Advisor: Xilin Chen)
+导师：陈熙霖 (Advisor: Xilin Chen) | 
 Key Lab of Intelligent Info Processing | Joint Dev Lab (JDL) for Digital Media (高文, Wen Gao)
 - 2005/9 – 2009/7 武汉大学，计算机学院，计算机软件，学士<br>
 BS, School of Computer Science, Wuhan University, China
