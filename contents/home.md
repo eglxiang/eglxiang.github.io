@@ -12,12 +12,6 @@ Professor in Computer Science & Tech
 
 鹏城实验室 网络智能研究部（访问学者）
 
-Co-Founder & Chief Scientific Officer of [Glory Robotics](http://glroad.com)
-
-(Glory Road Intelligent Robot Co., Ltd.)
-
-武汉格兰若智能机器人有限公司 联合创始人|首席科学家（兼职）
-
 
 #### Contact
 个  人：xex AT hust.edu.cn (主要)|xxiang3 AT alumni.jh.edu (备用)
