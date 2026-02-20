@@ -12,7 +12,7 @@ Professor in Computer Science & Tech
 
 鹏城实验室 网络智能研究部（访问学者）
 
-Visiting Researcher at University of Washington 
+Visiting Scholar at University of Washington 
 
 
 #### Contact
