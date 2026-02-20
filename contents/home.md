@@ -16,7 +16,7 @@ Professor in Computer Science & Tech
 #### Contact
 个  人：xex AT hust.edu.cn (主要)|xxiang3 AT alumni.jh.edu (备用)
 
-实验室：haivlab AT hust.edu.cn | 助  理: lob AT hust.edu.cn | 【[B站](https://space.bilibili.com/1716209957)】| [Google scholar](https://scholar.google.com/citations?user=-D5k5ioAAAAJ&hl=en)
+实验室：haivlab AT hust.edu.cn | 助  理: lob AT hust.edu.cn | 【[B站](https://space.bilibili.com/1716209957)】| 【[Google scholar](https://scholar.google.com/citations?user=-D5k5ioAAAAJ&hl=en)】
 
 湖北省武汉市洪山区珞喻路1037号 华中科技大学计算机科学与技术学院
 
@@ -46,7 +46,8 @@ BS, School of Computer Science, Wuhan University, China
 #### Work Experience
 - 2020/9 至今 华中科技大学，计算机/智能科学与技术，副教授  
 Associate Prof -> Prof, Computer/Intelligence Science & Tech, Huazhong Univ of Science & Tech
-HUST AI & Visual Learning Lab | State Key Lab of Multi-Spectral Info Intelligent Processing Tech   
+HUST AI & Visual Learning Lab | State Key Lab of Multi-Spectral Info Intelligent Processing Tech
+2025/11 - 2026/3 Visiting Scholar at the University of Washington   
 - 2020/1 - 2020/8，美国图森未来公司，算法部，资深研究科学家  
 Senior Research Scientist, Dept of Algorithms, TuSimple, Inc, USA (Hired by Xiaodi Hou 侯晓迪)  
 - 2018/9 - 2020/1，美国亚马逊云计算，亚马逊人工智能实验室，应用研究科学家  
