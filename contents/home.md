@@ -46,7 +46,9 @@ BS, School of Computer Science, Wuhan University, China
 #### Work Experience
 - 2020/9 至今 华中科技大学，计算机/智能科学与技术，副教授  
 Associate Prof -> Prof, Computer/Intelligence Science & Tech, Huazhong Univ of Science & Tech
+
 HUST AI & Visual Learning Lab | State Key Lab of Multi-Spectral Info Intelligent Processing Tech
+
 2025/11 - 2026/3 Visiting Scholar at the University of Washington   
 - 2020/1 - 2020/8，美国图森未来公司，算法部，资深研究科学家  
 Senior Research Scientist, Dept of Algorithms, TuSimple, Inc, USA (Hired by Xiaodi Hou 侯晓迪)  
