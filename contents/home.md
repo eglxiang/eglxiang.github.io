@@ -12,6 +12,8 @@ Professor in Computer Science & Tech
 
 鹏城实验室 网络智能研究部（访问学者）
 
+Visiting Researcher at University of Washington 
+
 
 #### Contact
 个  人：xex AT hust.edu.cn (主要)|xxiang3 AT alumni.jh.edu (备用)
