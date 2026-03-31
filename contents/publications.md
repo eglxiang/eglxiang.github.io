@@ -24,11 +24,15 @@
 
 - Yao Deng, <b>Xiang Xiang</b>*, Jiaqi Gui. <i>Random Amalgamation of Adapters for Flatter Loss Landscape: Towards <b>Class-Incremental Learning</b> with Better Stability</i>. In <b>AAAI</b>, 2026 (Oral).
 
+- <b>Xiang Xiang</b>*, Jing Ma, Hanlin Li. <i>Frequency-Aware Domain Generalization</i>. <b>IEEE Trans. Image Processing</b>, 2026.
+
 - Jing Ma, Hanlin Li, <b>Xiang Xiang*</b>: <i>Decoupled Entropy Minimization</i>. In <b>NeurIPS</b>, 2025.
 
 - Jing Ma, Hanlin Li, <b>Xiang Xiang*</b>: <i>PTTA: Purifying Malacious Samples for <b>Test-Time Model Adaptation</b></i>. In <b>ICML</b>, 2025.
 
 - Qinhao Zhou, Yuwen Tan, Boqing Gong, <b>Xiang Xiang</b>*. <i><b>Continual</b> Adapter Tuning with Semantic Shift Compensation for <b>Class-Incremental Learning</b></i>. ArXiv preprint: 2403.19979v2, 2025.
+
+- Tiantian Wang, <b>Xiang Xiang</b>*, Simon S. Du. <i>fedMRA: Federated Incremental Learning with Dynamic Memory Allocation</i>. Arxiv pre-print, 2026.
 
 - Jiaxin Dai, <b>Xiang Xiang</b>*: <i>Hyperbolic Coarse-to-Fine Few-Shot <b>Class-Incremental Learning</b></i>. ArXiv preprint:2509.18504, 2025.
 
@@ -40,7 +44,7 @@
 
 -  <strong>Xiang Xiang*</strong>,  Yuwen  Tan,  Qian  Wan,  Jing  Ma,  Alan L. Yuille,  Gregory D. Hager. <i>Coarse-To-Fine <b>Incremental</b> Few-Shot Learning</i>. In <strong>ECCV</strong>, 2022.  
 
-- Yao Deng, <b>Xiang Xiang</b>*. <i>Replaying Styles for <b>Continual</b> Semantic Segmentation across Domains</i>. In ACPR, 2023.
+- Yao Deng, <b>Xiang Xiang</b>*. <i>Replaying Styles for <b>Continual</b> Semantic Segmentation across Domains</i>. In ACPR, 2023. 
 
 <b>ADAPT W/O DATA?</b> <i>Knowledge Distillation & Partial-Label Learning</i>
 
