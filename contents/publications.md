@@ -1,6 +1,6 @@
 <b>WHEN TO ADAPT?</b> <i>Out-of-Distribution Detection & Open-Set Recognition</i>
 
-- Xueyang Zhou, Yangming Xu, Guiyao Tie, Yongchao Chen, Chaoran Hu, Bo Tao, Xingwei Zhao, <b>Xiang Xiang</b>, Pan Zhou, Lichao Sun. <i>Dismantling the Illusion of Vision-Language-Action Models Competence via Explicit Distributional Shifts</i>. In ICML, 2026.
+- Xueyang Zhou, Yangming Xu, Guiyao Tie, Yongchao Chen, Chaoran Hu, Bo Tao, Xingwei Zhao, <b>Xiang Xiang</b>, Pan Zhou, Lichao Sun. <i>Dismantling the Illusion of Vision-Language-Action Models Competence via Explicit Distributional Shifts</i>. In <b>ICML</b>, 2026.
 
 - <b>Xiang Xiang</b>*, Zhuo Xu, Zihan Zhang, Zhigang Zeng, Xilin Chen: <i>Enhanced Dual-Pattern Matching with Vision-Language Representation for <b>Out-of-Distribution Detection</b></i>. <b>IEEE Trans. PAMI</b>, 2025.
 
