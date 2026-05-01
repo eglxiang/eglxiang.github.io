@@ -1,5 +1,7 @@
 <b>WHEN TO ADAPT?</b> <i>Out-of-Distribution Detection & Open-Set Recognition</i>
 
+- Xueyang Zhou, Yangming Xu, Guiyao Tie, Yongchao Chen, Chaoran Hu, Bo Tao, Xingwei Zhao, <b>Xiang Xiang</b>, Pan Zhou, Lichao Sun. <i>Dismantling the Illusion of Vision-Language-Action Models Competence via Explicit Distributional Shifts</i>. In ICML, 2026.
+
 - <b>Xiang Xiang</b>*, Zhuo Xu, Zihan Zhang, Zhigang Zeng, Xilin Chen: <i>Enhanced Dual-Pattern Matching with Vision-Language Representation for <b>Out-of-Distribution Detection</b></i>. <b>IEEE Trans. PAMI</b>, 2025.
 
 - Zhuo Xu, <strong>Xiang Xiang*</strong>,  Yifan Liang:  <i>Overcoming Shortcut Problem in VLMs for Robust <b>Out-of-Distribution Detection</b></i>. In <strong>CVPR</strong>, 2025.
@@ -21,6 +23,8 @@
 - Q Wan, S Wang, <b>X Xiang</b>*. <i>A Simple Unknown-Instance-Aware Framework for <b>Open-Set</b> Object Detection</i>. In ICIST, 2023.
 
 <b>HOW TO ADAPT?</b> <i>Test-Time Adaptation & Incremental Learning</i>
+
+- <b>Xiang Xiang</b>*, Jing Ma, Hanlin Li, Trac D. Tran. <i>Frequency-Aware Domain Generalization</i>. <b>IEEE Transactions on Image Processing (TIP)</b>, 2026.
 
 - Yao Deng, <b>Xiang Xiang</b>*, Jiaqi Gui. <i>Random Amalgamation of Adapters for Flatter Loss Landscape: Towards <b>Class-Incremental Learning</b> with Better Stability</i>. In <b>AAAI</b>, 2026 (Oral).
 
