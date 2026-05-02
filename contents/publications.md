@@ -76,7 +76,7 @@
 
 - <b>Xiang Xiang*</b>. Bootstrapping Autonomous Lane Changes with Self-Supervised Augmented Runs. In <b>ECCV</b> Workshops, 2024.
 
-- Youming Deng, Yansheng Li, Yongjun Zhang, <strong>Xiang Xiang</strong>, Jian Wang, Jingdong Chen, Jiayi Ma. <i>Hierarchical Memory Learning for Fine-Grained Scene Graph Generation</i>. In <strong>ECCV</strong>, 2022.  
+- Youming Deng, Yansheng Li, Yongjun Zhang, <strong>Xiang Xiang</strong>, Jian Wang, Jingdong Chen, Jiayi Ma. <i>Hierarchical Memory Learning for Fine-Grained Scene Graph Generation</i>. In <strong>ECCV</strong>, 2022. 
 
 - Xiao Wang, <b>Xiang Xiang</b>, Baochang Zhang, Xuhui Liu, Jianying Zheng, Qinglei Hu. <i>Weakly Supervised Object Detection Based on Active Learning</i>. <b>NPL</b>, 2022.
 
@@ -101,7 +101,7 @@
 
 <i>Language Models</i>
 
-- Jiaxin Dai, Zehang Wei, Jiamin Yan, <strong>Xiang Xiang</strong>*. <i>Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation</i>. In <b>ACL 2026</b> Workshop on MAGMAR (Oral).
+- Jiaxin Dai, Zehang Wei, Jiamin Yan, <strong>Xiang Xiang</strong>*. <i>Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation</i>. In <b>ACL 2026</b> Workshop on MAGMAR (Oral; leaderboard No.1).
 
 - Zehang Wei, Jiaxin Dai, Jiamin Yan, <strong>Xiang Xiang</strong>*. <i>MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation</i>. In <b>ACL 2026</b> Workshop on MAGMAR.
 
