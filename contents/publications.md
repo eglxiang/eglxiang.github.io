@@ -101,6 +101,10 @@
 
 <i>Language Models</i>
 
+- Jiaxin Dai, Zehang Wei, Jiamin Yan, <strong>Xiang Xiang</strong>*. <i>Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation</i>. In Annual Meeting of the Association for Computational Linguistics (ACL 2026) Workshop on Multimodal Augmented Generation via MultimodAl Retrieval (MAGMAR), 2026 (Oral).
+
+- Zehang Wei, Jiaxin Dai, Jiamin Yan, <strong>Xiang Xiang</strong>*. <i>MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation</a>. In Annual Meeting of the Association for Computational Linguistics (ACL 2026) Workshop on Multimodal Augmented Generation via MultimodAl Retrieval (MAGMAR), 2026.
+
 - Qinhao Zhou, <b>Xiang Xiang</b>*, Kun He, John E. Hopcroft: <i>Learning to Rewrite Prompts for Bootstrapping LLMs on Downstream Tasks</i>. Arxiv preprint: 2510.06695, 2025.
 
 - Yan He, <strong>Xiang Xiang*</strong>, Xiaofei Liao: <i>Few-Shot Font Generation via Attribute-Guided Diffusion with Style Contrastive Learning</i>. In <strong>PRCV</strong>, 2025.
