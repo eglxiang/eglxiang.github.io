@@ -103,7 +103,7 @@
 
 - Jiaxin Dai, Zehang Wei, Jiamin Yan, <strong>Xiang Xiang</strong>*. <i>Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation</i>. In <b>ACL 2026</b> Workshop on MAGMAR (Oral).
 
-- Zehang Wei, Jiaxin Dai, Jiamin Yan, <strong>Xiang Xiang</strong>*. <i>MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation</a>. In <b>ACL 2026</b> Workshop on MAGMAR.
+- Zehang Wei, Jiaxin Dai, Jiamin Yan, <strong>Xiang Xiang</strong>*. <i>MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation</i>. In <b>ACL 2026</b> Workshop on MAGMAR.
 
 - Qinhao Zhou, <b>Xiang Xiang</b>*, Kun He, John E. Hopcroft: <i>Learning to Rewrite Prompts for Bootstrapping LLMs on Downstream Tasks</i>. Arxiv preprint: 2510.06695, 2025.
 
