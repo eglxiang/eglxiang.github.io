@@ -25,7 +25,7 @@ Institute of Digital Media (IDM) | Hopcroft Center on Computing Science (HCCS)
 
 #### Expertise
 
-开放环境感知（Open-Environment Sensing, [OES](https://haiv-lab.github.io/OES/)）、开放世界学习（Open-World Learning， OWL/[OpenHAIV](https://haiv-lab.github.io/openhaiv/)）
+开放环境感知（Open-Environment Sensing, [OES](https://haiv-lab.github.io/OES/)）、开放世界学习（Open-World Learning， OWL/[OpenHAIV](https://haiv-lab.github.io/openhaiv/)）、端侧持续学习
 
 At HUST, I lead a team of computer/AI scientists to work on multi-modal fusion, in-chip sensing, and in-sensor computing: at IDM, we work on MUSIC (Media-Ubiquitous Sensing and Intelligent Computing，媒体泛在传感与智能计算) across remote sensing (say, [OES](https://haiv-lab.github.io/OES/), AerialFusion), medical image computing (say, AI WalkUp), and affective computing (say, NormFace), for designing robust AI sensors (智能传感器, 例如多源传感算一体机); at HCCS, we work on OEMR (Open-Environment Model Robustness，开放环境模型安全) in both the theoretical and algorithmic perspective of out-of-distribution detection (say, DML, DPM, OSPCoOp), incremental learning (say, C2FSCIL, SSIAT, RAA), and model adaptation (say, PTTA, DEM), for deploying secure AI models including Alibaba's [Tongyi Qwen](https://www.alibabacloud.com/en/solutions/generative-ai/qwen) in vertical domains. The works has been published heavily in the areas of Machine Learning (say, AAAI, ICML, NeurIPS, TPAMI), Computer Vision (say, CVPR, ICCV, ECCV, IJCV), Multimedia Signal Processing (say, MM, ICASSP, ICIP, TIP, TCSVT), Medical Image Processing (say, MICCAI, ISBI), and Natural Language Processing (say, NAACL).
 
