@@ -24,8 +24,6 @@
 
 <b>HOW TO ADAPT?</b> <i>Test-Time Adaptation & Incremental Learning</i>
 
-- <b>Xiang Xiang</b>*, Jing Ma, Hanlin Li, Trac D. Tran. <i>Frequency-Aware Domain Generalization</i>. <b>IEEE Trans. Image Processing (TIP)</b>, 2026.
-
 - Yao Deng, <b>Xiang Xiang</b>*, Jiaqi Gui. <i>Random Amalgamation of Adapters for Flatter Loss Landscape: Towards <b>Class-Incremental Learning</b> with Better Stability</i>. In <b>AAAI</b>, 2026 (Oral).
 
 - <b>Xiang Xiang</b>*, Jing Ma, Hanlin Li. <i>Frequency-Aware Domain Generalization</i>. <b>IEEE Trans. Image Processing</b>, 2026.
