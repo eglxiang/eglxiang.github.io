@@ -99,6 +99,8 @@
 
 <i>Language Models</i>
 
+- Alexander Martin, Dengjia Zhang, Joel Brogan, Francis Ferraro, Jeremy Gwinnup, Reno Kriz, Teng Long, Kenton Murray, Andrew Yates, <strong>Xiang Xiang</strong>. Findings of the MAGMaR 2026 Shared Task. In <b>ACL 2026</b>.
+
 - Jiaxin Dai, Zehang Wei, Jiamin Yan, <strong>Xiang Xiang</strong>*. <i>Decoupling Semantics and Logic: A Training-Free Coarse-to-Fine Pipeline for Video Retrieval-Augmented Generation</i>. In <b>ACL 2026</b> Workshop on MAGMAR (Oral; leaderboard No.1).
 
 - Zehang Wei, Jiaxin Dai, Jiamin Yan, <strong>Xiang Xiang</strong>*. <i>MODE-RAG: Manifold Outlier Diagnosis and Energy-based Retrieval-Augmented Generation Evaluation</i>. In <b>ACL 2026</b> Workshop on MAGMAR.
