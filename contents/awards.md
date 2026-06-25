@@ -6,6 +6,10 @@
 
 - ICPR 2022 T-CAP Workshop 最佳论文奖(Best Paper Award) 提名奖(Honorable Mention, 2/2)
 
+- 2025年华中科技大学优秀本科生毕业设计（论文）指导老师
+
+- 2026年华中科技大学优秀硕士学位论文指导老师
+
 - EmotioNet 2017 Challenge, Second Place Award for two tracks （2/2）, 2017
 
 - 美国统计学会，因果统计教学奖（2/3），2017
