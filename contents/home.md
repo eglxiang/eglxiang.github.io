@@ -23,9 +23,9 @@ Professor in Computer Science & Tech
 
 Institute of Digital Media (IDM) | Hopcroft Center on Computing Science (HCCS)
 
-#### Expertise
+#### Expertise/Ideology
 
-开放环境智能（Open-Environment Intelligence, [OEI](https://haiv-lab.github.io/OES/)）、开放世界学习（Open-World Learning， OWL/[OpenHAIV](https://haiv-lab.github.io/openhaiv/)）、端侧持续学习。长期深耕开放环境感知、持续学习与知识增强技术，紧扣 AI 国产化、多模态智能体、行业大模型等时代主线，面向大模型与智能体时代 AI 在开放环境中的长期运行需求，进一步探索多模态经验记忆、可靠自适应智能体与持续演化学习方法，推动人工智能从静态感知走向动态适应。构建 “国产算力 + 多模态 RAG + 垂域模型 + 行业应用” 全栈技术体系，成果落地于法律信创、智能医疗、工业能源等领域，深度适配国产昇腾等硬件，突破专业多模态检索、软硬协同优化等关键瓶颈，形成差异化技术壁垒。
+开放环境智能（Open-Environment Intelligence, [OEI](https://haiv-lab.github.io/OES/)）、开放世界学习（Open-World Learning， OWL/[OpenHAIV](https://haiv-lab.github.io/openhaiv/)）、端侧持续学习。长期深耕开放环境感知、持续学习与知识增强技术，紧扣 AI 国产化、多模态智能体、行业大模型等时代主线，面向大模型与智能体时代 AI 在开放环境中的长期可靠运行需求，探索多模态经验记忆、持续演化学习与可靠自适应智能体方法，推动人工智能从静态模型向能够感知、学习、适应并可靠运行的开放环境智能系统演进。构建 “国产算力 + 多模态 RAG + 垂域模型 + 行业应用” 全栈技术体系，成果落地于法律信创、智能医疗、工业能源等领域，深度适配国产昇腾等硬件，突破专业多模态检索、软硬协同优化等关键瓶颈，形成差异化技术壁垒。
 
 At HUST, I lead a team of computer/AI scientists to work on multi-modal fusion, in-chip sensing, and in-sensor computing: at IDM, we work on MUSIC (Media-Ubiquitous Sensing and Intelligent Computing，媒体泛在传感与智能计算) across remote sensing (say, [OES](https://haiv-lab.github.io/OES/), AerialFusion), medical image computing (say, AI WalkUp), and affective computing (say, NormFace), for designing robust AI sensors (智能传感器, 例如多源传感算一体机); at HCCS, we work on OEMR (Open-Environment Model Robustness，开放环境模型安全) in both the theoretical and algorithmic perspective of out-of-distribution detection (say, DML, DPM, OSPCoOp), incremental learning (say, C2FSCIL, SSIAT, RAA), and model adaptation (say, PTTA, DEM), for deploying secure AI models including Alibaba's [Tongyi Qwen](https://www.alibabacloud.com/en/solutions/generative-ai/qwen) in vertical domains. The works has been published heavily in the areas of Machine Learning (say, AAAI, ICML, NeurIPS, TPAMI), Computer Vision (say, CVPR, ICCV, ECCV, IJCV), Multimedia Signal Processing (say, MM, ICASSP, ICIP, TIP, TCSVT), Medical Image Processing (say, MICCAI, ISBI), and Natural Language Processing (say, NAACL). My research focus is AI reliability, multimodal intelligence, embodied AI, real-world AI systems, say, reliable perception and decision-making for complex real-world environments.
 
