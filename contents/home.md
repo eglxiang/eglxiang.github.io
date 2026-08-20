@@ -6,6 +6,11 @@ Director of [HAIV Lab](https://github.com/HAIV-Lab/)
 
 [Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn)/[Johns Hopkins University](https://www.cs.jhu.edu) 
 
+Center for Language & Speech Processing | Laboratory for Computational Sensing & Robotics
+
+Department of Computer Science, Whiting School of Engineering, Johns Hopkins University 
+
+
   计算机科学与技术 （主聘）     |  智能科学与技术（双聘）
 
 计算机科学与技术学院(主聘)|  人工智能与自动化学院 多谱信息智能处理技术全国重点实验室（双聘）
