@@ -4,7 +4,7 @@ Director of [HAIV Lab](https://github.com/HAIV-Lab/)
 
 (Visiting) Associate Professor in Computer Science
 
-[Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn)/[Johns Hopkins University](https://www.cs.jhu.edu) 
+[Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn) / [Johns Hopkins University](https://www.cs.jhu.edu) 
 
 Center for Language & Speech Processing | Laboratory for Computational Sensing & Robotics
 
