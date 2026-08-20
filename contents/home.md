@@ -1,16 +1,14 @@
-项翔：华中科技大学 教授 博导
+项翔：约翰霍普金斯大学/华中科技大学 (访问)副教授 博导
 
 Director of [HAIV Lab](https://github.com/HAIV-Lab/)
 
-Professor in Computer Science & Tech
+(Visiting) Associate Professor in Computer Science
 
-[Huazhong Univ of Science & Technology](https://english.hust.edu.cn), China 
+[Johns Hopkins University](https://www.cs.jhu.edu)/[Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn), China 
 
   计算机科学与技术 （主聘）     |  智能科学与技术（双聘）
 
 计算机科学与技术学院(主聘)|  人工智能与自动化学院 多谱信息智能处理技术全国重点实验室（双聘）
-
-鹏城实验室 网络智能研究部（访问学者）
 
 
 
