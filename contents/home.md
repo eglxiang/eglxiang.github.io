@@ -1,10 +1,10 @@
-项翔：约翰霍普金斯大学/华中科技大学 (访问)副教授 博导
+项翔：华中科技大学/约翰·霍普金斯大学 (访问)副教授 博导
 
 Director of [HAIV Lab](https://github.com/HAIV-Lab/)
 
 (Visiting) Associate Professor in Computer Science
 
-[Johns Hopkins University](https://www.cs.jhu.edu)/[Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn), China 
+[Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn)/[Johns Hopkins University](https://www.cs.jhu.edu) 
 
   计算机科学与技术 （主聘）     |  智能科学与技术（双聘）
 
