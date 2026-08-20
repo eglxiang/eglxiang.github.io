@@ -30,15 +30,17 @@
 
 - <b>Xiang Xiang</b>*, Jing Ma, Hanlin Li. <i>Frequency-Aware Domain Generalization</i>. <b>IEEE Trans. Image Processing</b>, 2026.
 
+- Jiaxin Dai, <b>Xiang Xiang</b>*: <i>Hyperbolic Coarse-to-Fine Few-Shot <b>Class-Incremental Learning</b></i>. In <b>Conference on Lifelong Learning Agents (CoLLAs)</b>, Proceedings of Machine Learning Research, 2026.
+
+- Yuhang Gao, <b>Xiang Xiang</b>*. <i>LOC: A General Language-Guided Framework for Open-Set 3D Occupancy Prediction</i>. In <b>Conference on Lifelong Learning Agents (CoLLAs)</b>, 2026.
+
+- Tiantian Wang, <b>Xiang Xiang</b>*, Simon S. Du. <i>fedMRA: Federated Incremental Learning with Dynamic Memory Allocation</i>. Arxiv pre-print, 2026.
+
 - Jing Ma, Hanlin Li, <b>Xiang Xiang*</b>: <i>Decoupled Entropy Minimization</i>. In <b>NeurIPS</b>, 2025.
 
 - Jing Ma, Hanlin Li, <b>Xiang Xiang*</b>: <i>PTTA: Purifying Malacious Samples for <b>Test-Time Model Adaptation</b></i>. In <b>ICML</b>, 2025.
 
 - Qinhao Zhou, Yuwen Tan, Boqing Gong, <b>Xiang Xiang</b>*. <i><b>Continual</b> Adapter Tuning with Semantic Shift Compensation for <b>Class-Incremental Learning</b></i>. ArXiv preprint: 2403.19979v2, 2025.
-
-- Tiantian Wang, <b>Xiang Xiang</b>*, Simon S. Du. <i>fedMRA: Federated Incremental Learning with Dynamic Memory Allocation</i>. Arxiv pre-print, 2026.
-
-- Jiaxin Dai, <b>Xiang Xiang</b>*: <i>Hyperbolic Coarse-to-Fine Few-Shot <b>Class-Incremental Learning</b></i>. ArXiv preprint:2509.18504, 2025.
 
 - Yuwen Tan, Qinhao Zhou, <strong>Xiang Xiang*</strong>,  Ke Wang, Yuchuang Wu, Yongbin Li: <i>Semantically-Shifted <b>Incremental</b> Adapter-Tuning is A <b>Continual</b> ViTransformer</i>. In <strong>CVPR</strong>, 2024.
 
