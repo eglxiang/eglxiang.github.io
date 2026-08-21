@@ -18,7 +18,7 @@ Department of Computer Science, Whiting School of Engineering, Johns Hopkins Uni
 
 
 #### Contact
-个  人：xex AT hust.edu.cn (主要)|xxiang3 AT alumni.jh.edu (兼用)
+个  人：xex AT hust.edu.cn (主要)|xex AT jhu.edu (兼用)
 
 实验室：haivlab AT hust.edu.cn | 助  理: lob AT hust.edu.cn | 【[B站](https://space.bilibili.com/1716209957)】| 【[Google scholar](https://scholar.google.com/citations?user=-D5k5ioAAAAJ&hl=en)】| 【[GitHub](https://github.com/HAIV-Lab/)】
 
