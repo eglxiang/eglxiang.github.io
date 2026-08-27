@@ -13,7 +13,7 @@ Department of Computer Science, Whiting School of Engineering, Johns Hopkins Uni
 
   计算机科学与技术 （主聘）     |  智能科学与技术（双聘）
 
-#计算机科学与技术学院(主聘)|  人工智能与自动化学院 多谱信息智能处理技术全国重点实验室（双聘）
+[//]: # 计算机科学与技术学院(主聘)|  人工智能与自动化学院 多谱信息智能处理技术全国重点实验室（双聘）
 
 
 #### Contact
