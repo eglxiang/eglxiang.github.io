@@ -6,7 +6,7 @@ Director of [HAIV Lab](https://haivlab.wixsite.com/home)
 
 [Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn) / [Johns Hopkins University](https://www.cs.jhu.edu) 
 
-Data Science & AI Institute | Center for Language & Speech Processing | Laboratory for Computational Sensing & Robotics
+Data Science & AI Institute | Labo for Computational Sensing & Robotics | Center for Language & Speech Processing
 
 Department of Computer Science, Whiting School of Engineering, Johns Hopkins University 
 
