@@ -7,7 +7,7 @@ Huazhong Associate Professor of Computer Science & Tech at [Huazhong Univ of Sci
 
 Visiting Associate Professor of Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu) 
 
-Data Science & AI Institute | Labo for Computational Sensing & Robotics | Center for Language & Speech Processing
+Data Science & AI Institute | Lab for Computational Sensing & Robotics | Center for Language & Speech Processing
 
 Department of Computer Science, Whiting School of Engineering, Johns Hopkins University 
 
