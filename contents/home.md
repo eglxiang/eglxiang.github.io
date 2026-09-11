@@ -49,7 +49,7 @@ BS, School of Computer Science, Wuhan University, China
 
 #### Work Experience
 - 2020/9 至今 华中科技大学，计算机/智能科学与技术，副教授  
-Associate Prof -> Prof, Computer/Intelligence Science & Tech, Huazhong Univ of Science & Tech |
+Huazhong Associate Prof -> Prof, Computer/Intelligence Science & Tech, Huazhong Univ of Science & Tech |
 HUST AI & Visual Learning Lab | State Key Lab of Multi-Spectral Info Intelligent Processing Tech |
 2023-2026 Visiting Associate at Pengcheng Laboratory |
 2025/11 - 2026/3 Visiting Associate at the University of Washington   
