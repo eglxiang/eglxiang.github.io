@@ -2,9 +2,10 @@
 
 Director of [HAIV Lab](https://haivlab.wixsite.com/home)
 
-(Visiting) Associate Professor in Computer Science
 
-[Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn) / [Johns Hopkins University](https://www.cs.jhu.edu) 
+Huazhong Associate Professor of Computer Science & Tech at [Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn)
+
+Visiting Associate Professor of Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu) 
 
 Data Science & AI Institute | Labo for Computational Sensing & Robotics | Center for Language & Speech Processing
 
