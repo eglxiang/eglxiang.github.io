@@ -1,6 +1,6 @@
 项翔：华中科技大学/约翰·霍普金斯大学 (访问)副教授 博导
 
-Director of [HAIV Lab](https://haivlab.wixsite.com/home)
+Founding Director of [HAIV Lab](https://haivlab.wixsite.com/home)
 
 
 Huazhong Associate Professor of Computer Science & Tech at [Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn)
