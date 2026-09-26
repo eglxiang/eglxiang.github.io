@@ -3,7 +3,7 @@
 Founding Director of [HAIV Lab](https://haivlab.wixsite.com/home)
 
 
-Huazhong Associate Professor of Computer Science & Tech at [Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn)
+Huazhong Associate Professor of Computer Science & Intelligence Science at [Huazhong Univ of Science & Technology](https://en-cs.hust.edu.cn)
 
 Visiting Associate Professor of Computer Science at [Johns Hopkins University](https://www.cs.jhu.edu) 
 
