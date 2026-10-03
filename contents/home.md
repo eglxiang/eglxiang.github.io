@@ -86,3 +86,20 @@ Applied Scientist, AWS AI Labs, Amazon Web Services, Inc, USA (Hired by Stefano 
 - 美国国立卫生院 (NIH) RO1 项目，通过视频分析增强内窥镜鼻窦手术导航 (Enhanced navigayion for endoscopic sinus surgery through video analysis)，2012-7 至 2017-6，结题，参与
 
 
+#### 兴趣 Interest
+
+I’m a versatile, team-oriented soccer player who can play on **either side of the defense or as a wide player**, with right back being my most natural position. I can also play center back when needed.
+
+My game is built around **positioning, awareness, and making the right decision when an opportunity opens up**. Defensively, I’m comfortable on either side. I focus on reading the play, controlling space, blocking shots, cutting passing lanes, and stepping in to tackle when the timing is right. I try to defend with good positioning rather than relying on constant chasing.
+
+On the right side, I can contribute more aggressively in attack. I can make sudden runs down the flank, deliver cutbacks and low crosses, switch play, and occasionally arrive in the box to finish. I’m particularly comfortable attacking the space around the top of the box and taking first-time or powerful shots when the opportunity is there.
+
+On the left, I play with my **weaker foot toward the outside**, so my attacking approach is different. Rather than relying heavily on overlapping runs and crosses, I tend to **cut inside and look for a pass, combination, or through ball**. I’m comfortable playing on the left without compromising my defensive responsibilities.
+
+I’m also an opportunistic finisher. I can attack crosses and second balls, get to the ball before defenders, capitalize on mistakes, and finish from the edge of the box. I’m particularly comfortable with **first-time finishes, low shots, and powerful shots when the distance and angle are right**.
+
+I’m not a player who wants to dominate the ball or dribble constantly. My style is based more on **scanning, positioning, and recognizing high-value opportunities**. I try to keep the game simple most of the time, but I’m ready to make a decisive play when the window opens.
+
+Overall, I see myself as a player who can contribute at both ends of the field: **defend reliably, connect play, create chances, and finish opportunities**, while adapting my attacking game depending on which side I play.
+
+
